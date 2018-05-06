@@ -696,7 +696,14 @@ let data = {
       ability:
         "primal rage - if the opponent has groudon, kyogre or rayquaza on the field, this pokémon gets mp +1 and does +20 damage"
     },
-    { name: "Nidoran♂", id: "81" },
+    {
+      name: " Nidoran♂",
+      id: "81",
+      movement: "2",
+      rarity: "c",
+      type: "poison",
+      ability: "none"
+    },
     {
       name: " Fletchling",
       id: "82",
@@ -3848,9 +3855,17 @@ let data = {
       rarity: "r",
       type: "fire",
       ability: "none"
+    },
+    {
+      name: " Shiny Espeon",
+      id: "516",
+      movement: "3",
+      rarity: "r",
+      type: "psychic",
+      ability: "behavioral prediction - this pokémon gains +1 ☆"
     }
   ],
   plates: {}
 };
 
-export default data;
+default export data;

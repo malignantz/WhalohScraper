@@ -128,7 +128,8 @@ function figureIdToURL(id) {
     .find(fig => fig.id === id)
     .name.split(" ")
     .join("")
-    .toLowerCase();
+    .toLowerCase()
+    .replace("♂", "m");
   let result = `${base}${id}-${name}.shtml`;
   //console.log(result);
   return result;
@@ -174,10 +175,12 @@ function scrapeAllFigures(cb) {
 
   let ids = DB.figures.map(fig => fig.id);
   for (var id of ids) {
-    fetchArray.push(scrapeById.bind(this, id));
+    if (!DB.figures.find(f => f.id).rarity) {
+      fetchArray.push(scrapeById.bind(this, id));
+    }
   }
 
-  throttleCall(fetchArray, 250, cb);
+  throttleCall(fetchArray, 180, cb);
 }
 
 function parseFigure($) {
