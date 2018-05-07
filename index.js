@@ -149,12 +149,20 @@ function scrapeById(id) {
   return get$FromURL(url)
     .then($ => {
       let figure = parseFigure($);
-      setFigure(figure);
+      setFigure(trimFigure(figure));
       return figure;
     })
     .then(x => {
       console.log("Imported " + x.name);
     });
+}
+
+function trimFigure(fig) {
+  let result = Object.assign({}, fig);
+  for (var key in result) {
+    result[key] = trimBoth(result[key]);
+  }
+  return result;
 }
 
 function throttleCall(fnArray, ms, cb) {
@@ -201,13 +209,14 @@ function parseFigure($) {
     version: val => val.includes("V") && val.includes("."),
     image: val => val.includes("http")
   };
-
+  // get name prop
   let name = $("td.fooleft font b").text();
   name = name
     .split(" ")
     .filter(chunk => !chunk.includes("-") || !chunk.includes("ID-"))
     .join(" ")
     .replace("-", "");
+  // get ID prop
   let id = $("td tr font b")
     .text()
     .split(" ")
@@ -231,14 +240,20 @@ function parseFigure($) {
       //console.log("stat,val:", stat, val);
 
       // check for secondaryType
-      if (stat === "type" && val.includes("/")) {
+      if (val.includes("/") && stat === "type") {
         let [primaryType, secondaryType] = val.split("/");
         primaryType = trimBoth(primaryType);
         secondaryType = trimBoth(secondaryType);
         Object.assign(stats, { primaryType, secondaryType });
-        //console.log("\n******\n****\n", ".", primaryType, ".", secondaryType);
       } else {
+        // change type to primaryType if only one type
+
         if (VALID_STATS[stat] && VALID_STATS[stat](val)) {
+          if (stat === "type") {
+            stats.primaryType = val;
+            stats.secondaryType = "";
+          }
+          stat = stat === "type" ? "primaryType" : stat;
           stats[stat] = val;
         } else {
           console.log("\n\n\nInvalid Stat error.\n\n\n");

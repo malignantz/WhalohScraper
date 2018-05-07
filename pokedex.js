@@ -3868,4 +3868,4 @@ let data = {
   plates: {}
 };
 
-default export data;
+export default data;
