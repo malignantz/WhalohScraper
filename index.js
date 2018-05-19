@@ -51,7 +51,8 @@ const DB = {
   figures: [
     // id, name, ability, primaryType, secondaryType, attacks, movement, rarity, version, image
   ],
-  plates: {}
+  plates: [],
+  attacks: {}
 };
 const URLS = { figures: "https://www.serebii.net/duel/figures.shtml" };
 // *********************************
@@ -179,7 +180,7 @@ function scrapeAllFigures(cb) {
     }
   }
 
-  throttleCall(fetchArray, 180, cb);
+  throttleCall(fetchArray, 220, cb);
 }
 
 function parseFigure($) {
@@ -240,13 +241,13 @@ function parseFigure($) {
         Object.assign(stats, { primaryType, secondaryType });
       } else {
         // change type to primaryType if only one type
-
         if (VALID_STATS[stat] && VALID_STATS[stat](val)) {
           if (stat === "type") {
             stats.primaryType = val;
             stats.secondaryType = "";
           }
           stat = stat === "type" ? "primaryType" : stat;
+          // sets the stat
           stats[stat] = val;
         } else {
           console.log("\n\n\nInvalid Stat error.\n\n\n");
@@ -294,43 +295,69 @@ function parseFigure($) {
         notes: data[3],
         damage: data[4]
       });
+
+      // feed attacks straight into DB
+
+      if (!DB.attacks[data[1]]) {
+        DB.attacks[data[1]] = {
+          wheelsize: data[0],
+          color: data[2],
+          notes: data[3],
+          damage: data[4]
+        };
+      }
       // console.log("290" + JSON.stringify(stats));
     }
   }
-  /*
-  console.log(
-    "Wheelsize: ",
-    wheelsize,
-    "Name: ",
-    name,
-    "Color: ",
-    color,
-    "Notes: ",
-    notes,
-    "Damage: ",
-    damage
-  );
-*/
-  //console.log("305" + JSON.stringify({ attacks: moveArray, ...stats }));
-  return { attacks: moveArray, ...stats };
+
+  // version & image
+
+  let version = $("li.tabs").attr("title");
+  let image = `https://www.serebii.net/duel/figures/${id}.jpg`;
+
+  return { version, image, ...stats };
 }
 
-function makeCSVData(key) {
-  // doesn't include moves
-
-  let csv =
+function figuresTSV() {
+  let header =
     Object.keys(DB[key][0])
       .filter(x => x !== "attacks")
       .join(",") + "\n";
-  return DB[key].reduce((csv, item) => {
+
+  return DB.figures.reduce((tsv, item) => {
     for (var prop in item) {
-      console.log("322-", item);
-      csv += Array.isArray(item[prop])
-        ? item[prop].join(",") + ","
-        : item[prop] + ",";
+      let d = item[prop];
+      tsv += d + "\t";
     }
-    return csv.slice(0, -1) + "\n";
+    return tsv.slice(0, -1) + "\n";
   }, "");
+}
+
+function attacksTSV() {
+  let header = Object.keys(DB.attacks.Dodge).join(",") + "\n";
+
+  let attacks = Object.keys(DB.attacks);
+
+  return attacks.reduce((tsv, item) => {
+    for (var name in item) {
+      tsv += item[prop] + "\t";
+    }
+    return tsv.slice(0, -1) + "\n";
+  }, "");
+}
+function makeTSVData(key) {
+  // doesn't include moves
+
+  //let useProps = Object.keys(DB[key][0])
+
+  // ITEM ISN'T FILTERED SO WE ARE GETTING ATTACKS WHEN WE DON'T WANT THEM
+
+  const TSV_FNS = {
+    figures: figuresTSV,
+    attacks: attacksTSV
+  };
+
+  return TSV_FNS[key] ? TSV_FNS[key]() : console.log("345-incorrect itemType");
 }
 
 function initDb() {
@@ -383,10 +410,18 @@ app.get("/scrapeAllFigures", (req, res) => {
   scrapeAllFigures(res);
 });
 
-app.get("/dump", (req, res) => {
-  res.send(JSON.stringify(DB));
+app.get("/dump/:cat", (req, res) => {
+  let itemType = req.params.cat ? req.params.cat : "figures";
+
+  res.send(JSON.stringify(DB[itemType]));
   res.end();
-  fs.writeFileSync("figures.csv", makeCSVData("figures"));
+  fs.writeFileSync(`${itemType}.tsv`, makeTSVData(itemType));
+});
+
+app.get("/vers", (req, res) => {
+  get$FromURL("https://www.serebii.net/duel/figures/1-dialga.shtml").then($ => {
+    res.end();
+  });
 });
 
 app.listen(3000, () => {
