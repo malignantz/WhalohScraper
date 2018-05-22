@@ -1,0 +1,521 @@
+name	wheelsize	color	notes	damage
+Miss	8	Red		
+Dodge	20	Blue		
+Magic Coat	32	Purple	If a battle opponent uses an Attack that attaches a marker or causes a special condition, that effect will be caused on the battle opponent instead.	☆☆☆
+Psybeam	36	White	If this Pokémon is knocked out, the battle opponent becomes confused.	40
+Flamethrower	44	White	If this Pokémon is knocked out when using this move, the battle opponent becomes burned.	40
+Focus Energy	20	White	Spin again until an attack other than Focus Energy is spun. Damage attacks deal +20 damage,	
+Thunder Jolt	40	White	If this Pokémon is knocked out when using this move, the battle opponent becomes paralyzed.	40
+Quick Attack	28	Gold		30
+Tackle	24	White		30
+Contagious Terror	32	Purple	The battle opponent, and a succession of opposing Pokémon adjacent to it, gain Wait 3	☆☆
+Night Shade	40	White		100
+Toxic	32	Purple	The battle opponent becomes noxious.	☆
+Abyssal Grip	44	White	If this Pokémon faints, the battle opponent moves to your P.C.	110
+Ultra Belch	28	Blue	Moves one opposing Pokémon in the Ultra Space to a point of your choosing on the field. That Pokémon gains Wait 3.	
+Brutal Swing	28	Purple	Adjacent opposing Pokémon are knocked 1 step back. Those Pokémon gain wait.	☆☆☆
+Dragon Tail	32	White	Benches your battle opponent (except when opponent has fainted). Your battle opponent must then Wait.	137
+Primal Strike	44	White	If the battle opponent is Mega Evolved or has evolved or changed its form during the duel, move that Pokémon to the bench (except when the battle opponent is knocked out). THe battle opponent gains Wait	60
+Big Yawn	16	Purple	This Pokémon and the battle opponent fall asleep	☆
+Aqua Tail	24	White	The battle opponent gains Wait	80
+Paw	24	White		70
+Rock Throw	52	White		40
+Bind	60	White	Spin again until Bind does not land - damage is multiplied by the number of Bind spins. The bttle opponent gains Wait X where X is the number of Bind spins	10x
+Constrict	24	Purple	The battle opponent now has Wait.	☆☆
+Grass Knot	20	White	If the battle opponent's Attack is 120 damage or higher, the opponent is knocked out instead of this Pokémon	20
+Synthesis	28	Purple	While they are on the field, your Grass-type Pokémon deal +20 damage to the battle opponent	☆
+Thunder Wave	52	Purple	The battle opponent becomes paralyzed	☆☆
+Wave Arms	56	White	The battle opponent is moved to the bench and gains Wait.	40
+Flail	24	White		70
+Belch	36	Purple	The battle opponent is knocked 1 step back. If the battle opponent is a Fairy-type Pokémon, it is moved to the bench.	☆
+Poison Jab	44	White	The battle opponent becomes poisoned. If the battle opponent is a Fairy-type Pokémon that is not a Steel-type Pokémon, it is knocked out.	50
+Moonblast	28	White		20
+Spore	32	Blue	The battle opponent falls asleep	
+Cotton Guard	24	Purple	In this Pokémon's next battle, it cannot be knocked out.	☆
+Peck	28	White		10
+Round	32	White	Damage is multiplied by the number of your own Pokémon on the field that also have Round	20x
+Revert	12	Blue	This Pokémon can change form to one of your Rotom	
+Discharge	24	White		50
+Blizzard	36	White	If this Pokémon is knocked out, all adjacent Pokémon become frozen	90
+Roar	20	Purple	The battle opponent is knocked 1 step back (the battle opponent chooses the point) and gains Wait	☆☆
+Counter	16	White	If the battle opponent's Attack is 20 or more, the battle opponent is knocked out instead of this Pokémon	0
+Stone Edge	28	White		90
+Stealth Hit	20	Blue	This Pokémon can jump over its battle opponent and land 1 step away	
+Accelerock	28	Gold		60
+Energy Ball	28	Purple	While the battle opponent is on the field, all of that Pokémon's Blue Attacks that are not Dodge become misses	☆
+Power Whip	40	White	The battle opponent gains Wait 3	100
+Sleep Powder	20	Purple	The battle opponent falls asleep	☆
+Sucker Punch	28	Gold		50
+Bullet Seed	64	White	Spin again until Bullet Seed does not land - damage is multiplied by the number of Bullet Seed spins	20x
+Volt Switch	32	Purple	This Pokémon switches with a Pokémon on your bench	☆
+Shocking Suction Cups	48	White	If this Pokémon is knocked out, the battle opponent becomes Paralyzed.	70
+Sphere Trick	20	Purple	If any Sphere plates have been used on the battle opponent, then this Pokémon also gains those effects until the end of the duel	☆
+Punishment	56	White	If the battle opponent is under an effect that increases Attack damage, this Attack deals +50 damage	50
+Cross Chop	32	White	Spin again - if Cross Chop is spun, it deals +50 damage	90+
+Acid Breath	24	Purple	The battle opponent becomes poisoned. The battle opponent's Metal Coat effects are lost and Metal Coat counts as having been used. This does not cause it to return to its previous Evolution	☆☆☆
+Sludge Bomb	20	White	If this Pokémon is knocked out, all Poémon within 2 steps become poisoned.	28
+Poison Sting	28	Purple	The battle opponent becomes poisoned	☆
+Spike Cannon	28	White	Spin again until Spike Cannon does not land - damage is multiplied by the number of Spike Cannon spins	30x
+Dazzling Gleam	24	White	Opposing Pokémon adjacent to this Pokémon spin, and if they spin a Gold Attack then they are knocked out.	100
+Strength Sap	24	Purple	Attaches a Full marker to this Pokémon. While that marker is attached to it, this Pokémon is not knocked out by damage from White Attacks. The marker and any special conditions affecting this Pokémon are removed instead of it being knocked out.	☆☆
+Fly	12	Purple	This Pokémon jumps over the battle opponent and lands 1-2 steps away.	☆☆☆
+Ice Beam	40	White	If this Pokémon is knocked outm the battle opponent becomes frozen.	110
+Outrage	12	White	This Pokémon becomes confused	150
+Glaciate	24	Purple	All opposing Pokémon on the field that are not Fire-, Water-, Ice- or Steel-type spin. Attach MP-1 markers to those that spin White Attacks	☆
+Protect	16	Blue	Your Pokémon gains Wait	
+Hammer Arm	32	White	This Pokémon gains Wait	150
+Explosion	20	Purple	This Pokémon and all neighbor Pokémon faint	☆☆
+Multiblast	24	White	Knocks out all Pokémon that have Lock-On markers attached to them	90
+Solar Blade	52	White	If the battle opponent has Wait, the battle opponent is knocked out instead of this Pokémon	120
+Petal Blizzard	28	White	All opposing Pokémon on the field spin. Those that spin a Miss are knocked out	90
+Seed Flare	28	White	If there are any poisoned and/or noxious Pokémon, this damage is multiplied by the number of those Pokémon. Removes all Poisoned and Noxious conditions from all Pokémon	60
+Choose one Pokémon in your P.C. and move it to the bench	28	Purple		☆☆☆
+Wild Charge	20	White	This Pokémon gains Wait	130
+Shock Wave	20	Purple	The battle opponent and a succession of Pokémon adjacent to it (excluding this one), become Paralyzed	☆
+Generator	20	Blue	All adjacent Water-type Pokémon become paralyzed. On the next turn, this Pokémon deals +30 damage.	
+Dragon Pulse	32	White	Deals +50 damage if the battle opponent is a Dragon-type Pokémon	90
+Override	32	White	All adjacent Pokémon become paralyzed	100
+Call	24	Blue	Moves Murkrow in the P.C. To your bench	
+Night Slash	28	White	If this Pokémon is not knocked out, you may switch this Pokémon with 1 of your Benched Pokémon	120
+Crosscounter	36	White	If the battle opponent spins an Attack of 110 damage or higher, the battle opponent is knocked out instead of this Pokémon	90
+Night Daze	24	White	In the battle opponent's next battle, that Pokémon's White Attacks become misses	110
+Bear Hug	40	White	The battle opponent spins. If it spins a Blue Attack, it is knocked out.	50
+Psychic Blade	32	White	Deals x2 damage if the battle opponent is a Fighting-type Pokémon	70
+Teleport	24	Purple	This Pokémon moves 2 steps away.	☆☆☆
+Venoshock	28	White	Deals x2 damage if the battle opponent is poisoned or noxious	70
+Baneful Bunker	16	Blue	The battle opponent becomes poisoned	
+Poison Shower	28	Purple	The battle opponent becomes noxious. All poisoned Pokémon become noxious.	☆☆☆
+Perish Song	24	Purple	This Pokémon and all adjacent Pokémon gain a Curse marker. (A Pokémon that is knocked out in this condition is excluded from the duel)	☆☆
+Dragon Dance	20	White	Spin again until an Attack other than Dragon Dance is spun. Damage Attacks deal +50 damage	
+Draco Meteor	16	Purple	One other Pokémon on the field spins - if they spin a miss or a white Attack of 70 damage or more, they are knocked out.	☆
+Ice Burn	32	White	The battle opponent becomes burned. If the battle opponent has Wait, the battle opponent is knocked out instead of this Pokémon	140
+Fusion Flare	24	White	If this Pokémon is not affected by a special condition and any of your Pokémon on the field has the Fusion Bolt Attack, exclude Pokémon knocked out by this Attack from the Duel.	100
+Freeze Shock	32	White	The battle opponent becomes paralyzed. If the battle opponent has Wait, the battle opponent is knocked out instead of this Pokémon	140
+Fusion Bolt	24	White	If this Pokémon is not affected by a special condition and any of your Pokémon on the field has the Fusion Flare Attack, exclude Pokémon knocked out by this Attack from the Duel.	100
+Crunch	16	White		60
+Rockstorm	36	White	Moves all Fire-type and Flying-type Pokémon that are adjacent to this Pokémon to the bench	130
+Mountain Topple	40	White	All adjacent Pokémon on the field spin. Those that spin a Blue Attack are knocked out.	140
+Heavy Slam	24	White	If the battle opponent has MP3 or higher, tis Pokémon takes no damage and the battle opponent is knocked out	110
+Bedrock Breaker	32	White	Temporarily excludes its battle opponent from the duel if it is a Rock- or Fairy-type Pokémon. That Pokémon returns to the bench after 7 turns	130
+Vacuum Wave	16	Gold		71
+Ultra Blade	52	White	If there are any Pokémon in the Ultra Space, this damage is multiplied by the number of those Pokémon.	61
+Gyro Ball	32	White	Deals +30 damage if the battle opponent's MP is higher than this Pokémon's MP	107
+Rendezvous	16	Blue	This Pokémon and its battle opponent move to the Ultra Space outside of the field	
+Zap Cannon	28	White	The battle opponent, and the Pokémon in a straight line directly behind it, become paralyzed. Those Pokémon gain Wait.	113
+Cable Lash	36	White	Deals x2 damage if the battle opponent is paralyzed.	103
+Plate Gnawing	28	Purple	Nullifies the effects of one of the opponent's in-use plates, and that plate counts as having been used.	☆☆☆
+Shadow Sneak	32	Gold		80
+Shadow Beam	28	White	In the battle opponent's next battle, that Pokémon's Purple Attacks become misses	90
+Low Sweep	36	White	Attaches an MP - 1 marker to the battle opponent	103
+Call Signal	24	Blue	Move one of your Pokémon that is in the Ultra Space to a point 2 steps away from this Pokémon	
+Psychic Shove	32	Purple	The battle opponent is knocked as far back as possible in a straight line. Any Pokémon it collides with are also knocked back. All affected Pokémon gain Wait.	☆☆
+Laser Focus	20	Blue	On the next turn, all the Purple Attacks of the battle opponent of this Pokémon become misses	
+Psystrike	36	White		120
+Ice Punch	24	White	If this Pokémon is knocked out, the battle opponent becomes frozen.	53
+Superpower	36	White		113
+Chest Repulse	24	Blue	Attaches a Cracked marker to the battle opponent if the battle opponent spins an Attack of 130 or more damage	
+Hyper Sonic	32	Gold	If the battle opponent's Attack is 100 damage or more, this Pokémon cannot be knocked out	50
+Annihilate	20	Blue	This Pokémon moves 2 steps away.	
+Stun Poison	28	Purple	The battle opponent becomes poisoned. The battle opponent gains Wait 7	☆☆
+White Tentacles	28	White	Attach a Symbiont marker to the battle opponent. A Pokémon with this marker attached can only be used by its opposing player (MP Moves only). This marker can be removed by tagging	83
+Final Song	24	Purple	Attaches a Final Song marker to all Pokémon within 2 steps. Pokémon with that marker are knocked out after 5 turns.	☆☆
+Hyper Beam	36	White	If the battle opponent is knocked out, the next turn will always be the other player's	110
+Splash	48	White		0
+Storm	28	Purple	All neighbour Pokémon are moved to the bench and gain Wait.	☆
+Gust	28	White		50
+Fire Blast	32	White		100
+Rainbow Wing	24	Purple	This Pokémon moves 2 steps away.	☆☆☆
+Extreme Speed	36	Gold		140
+Break Energy	24	White	Your opponent's Energy Plate-based effects are lost	60
+Nuzzle	36	White	If this Pokémon is knocked out, the battle opponent becomes Paralyzed.	10
+Zing Zap	40	White	The Blue Attacks of the Pokémon hit by this Attack will be misses during the next turn	50
+Hypnosis	20	Purple	The battle opponent falls asleep.	☆☆
+Confuse Ray	20	Purple	The battle opponent becomes confused.	☆☆☆
+Earthquake	32	White	All Pokémon on the field spin, except this one - if they spin a miss, they are knocked out.	60
+Present	40	White	The battle opponent, and a succession of opposing Pokémon adjacent to it, spin. Those that spin Blue Attacks are knocked out.	40
+Take Flight	24	Blue	This Pokémon is elminated from the duel.	
+Sing	24	Purple	The battle opponents fall asleep.	☆
+Water Gun	40	White		40
+Air Slash	28	White	The battle opponent gains Wait.	60
+Passionate Dance	32	Purple	You may choose one of your Pokémon on the bench and evolve it. The battle opponent gains Wait.	☆☆
+Roost	24	Blue	This Pokémon recovers from all status effects. In exchange, it must then Wait 3.	
+Bubble Beam	28	White		50
+Sabotage	28	Purple	The battle opponent gains Wait 3	☆☆☆
+Ember	60	White		40
+Scary Face	20	Purple	The battle opponent is knocked 1 step back (the opponent chooses the point) and gains Wait.	☆
+Leafage	60	White		40
+Refined Dance	24	White	The battle opponent gains Wait 3. If this Pokémon is knocked out, the battle opponent gains a Curse marker.	50
+Branded	20	Purple	If the battle opponent is burned, attach a Branded marker to the battle opponent. The effects of abilities of Branded Pokémon that increase or decrease Attack damage are nullified	☆☆
+Will-O-Wisp	28	Purple	The battle opponent becomes burned.	☆
+Air Cutter	24	White		50
+Alluring Dance	36	Purple	The battle opponent and opposing Pokémon adjacent to it become confused.	☆☆
+Electromagnetic Blaster	68	White	If there is an Electric-type Pokémon next to this Pokémon, +50 damage	30
+Sand Attack	36	Purple	The battle opponent now has Wait.	☆
+Aqua Jet	24	Gold		10
+Welcome Dance	36	Purple	You may move one Pokémon that is on your bench within its MP range. The moved Pokémon gains Wait.	☆
+Light Screen	28	Purple		☆☆☆
+Mud Shot	28	White	Attach MP-1 marker to the battle opponent.	60
+Dig	32	Purple	You can move this Pokémon to an open slot next to an adjacent figure (or adjacent figures in succession to the first)	☆☆
+Bug Bite	32	White	Return the battle opponent to its start-of-the-duel state excluding evolution and any special conditions	30
+Balloon Dance	28	Purple	Opposing Pokémon on the field spin. Those that spin a Purple Attack gain Wait.	☆☆
+Leaf Storm	44	White	This attack becomes a Miss for the next turn	130
+Hydro Pump	28	White		70
+Lively Dance	28	Purple	All Pokémon on the field spin. Those that spin White Attacks gain Wait	☆☆
+Playful Punch	40	White	Knocks the battle opponent back as far as it can move in a straight line. The battle opponent gains Wait.	
+Fake Out	24	Purple	This Pokémon switches places with its battle opponent	☆☆☆
+Leaf Blade	56	White	Spin again - if Leaf Blade is spun, it deals +50 damage	50+
+Swinging Throw	28	Purple	Spin for an opposing Pokémon within 2 steps. If the result is anything other than a Blue Attack, knock it out.	☆
+Curse	20	Purple	Attach a Curse marker to the battle opponent. (A Pokémon that is knocked out in this condition is excluded from the duel.)	
+Shadow Claw	24	White		30
+Play Rough	40	White	On your next turn, your opponent cannot use plates.	70
+Nebby's Power	28	Purple	You may move one of yourPokémon in Ultra Space or one of your Solgaleo or Lunala next to this Pokémon. If you do, this Pokémon evolves. If it cannot evolve, this Pokémon is knocked out.	☆
+Bullet Punch	28	Gold		30
+Tractor Beam	16	Blue	Move one other Steel-type Pokémon within 2 steps of this Pokémon to a point not more than 1 or 2 steps away from this Pokémon	
+Metal Claw	32	White		90
+Swords Dance	24	White	Spin again until an attack other than Swords Dance is spun. Damage Attacks deal x2 damage	
+Flying Blow	40	White	This Pokémon jumps over its battle opponent and lands one step away from the opponent	100
+Cosmic Power	32	Blue	Wile this Pokémon is on the field, this Pokémon gains +1. This effect is not cumulative	
+Dosdge	12	Blue		
+Electro Ball	40	White		100
+Tri Attack	24	White	If this Pokémon is knocked out, the battle opponent becomes paralyzed, burned or frozen.	60
+Shock Blast	44	White	If the battle opponent spins an Attack of 101 or more damage, the battle opponent is knocked out	40
+Fleur Cannon	28	White	If the battle opponent is knocked out, this Pokémon returns to its start-of-the-duel state (excluding evolution and special conditions)	120
+Shift Gear	20	Blue	Until the end of the duel, this Pokémon's MP becomes 3 and its Blue Attacks become Misses	
+Muddy Water	32	Purple	The battle opponent and one neighbour Pokémon directly behind it are knocked 1 step back and gain Wait	☆☆
+Poni Wish	12	Blue	You may select one opposing Pokémon. If you do, this Pokémon and the selected opposing Pokémon are excluded from the duel.	
+Sparkling Aria	32	White	Removes the burned condition from all Pokémon. Fire-type Pokémon on the field spin. Those that spin White Attacks gain Wait 3	109
+Balloon Flight	20	Blue	In this Pokémon's next battle, it cannot be knocked out.	
+Full Swing	28	White	Moves one Pokémon that is both adjacent to this Pokémon and not its battle opponent to a point three steps away. That Pokémon gains Wait.	120
+Smash	28	White		99
+Ula'Ula Wish	20	Blue	You may select one opposing Pokémon. If you do, exclude this Pokémon from the duel. The selected Pokémon and opposing Pokémon with the same name have no Abilities until the end of the Duel	
+Darkest Lariat	28	White	If the battle opponent is knocked out, move the Pokémon adjacent to the battle opponent (excluding this one) to their bench	130
+Suplex	28	Purple	Moves the battle opponent to a point one step behind this Pokémon. The battle opponent gains Wait.	☆☆
+Flare Blitz	28	White	If this Pokémon is knocked out, the battle opponent becomes burned.	80
+Phantom Arrow	32	Gold	An opposing Pokémon adjacent to the battle opponent spins, and if it spins a Purple Attack then it is knocked out.	90
+Spirit Shackle	32	White	The battle opponent gains Wait 5.	120
+Dark Rite	20	Blue	Knock out a Pokémon that has a Branded marker attached to it.	
+Inferno	44	White	The battle opponent becomes burned.	110
+Moongeist Beam	20	Purple	Move the battle opponent or one opposing Pokémon that is adjacent to the battle opponent to its PC	☆☆
+Psychic	48	White		60
+Crushing Squeeze	32	White	If the battle opponent has a Cracked marker on it, this Pokémon takes no damage and the battle opponent is knocked out unless it is a Fire-type Pokémon	100
+Psyshock	28	Purple	If the battle opponent is affected by a special condition or has Wait, the battle opponent is knocked out. The battle opponent gains Wait 3.	☆☆
+Akala Wish	20	Blue	You may exclude this Pokémon from the duel. If you do, your used plates all return to their unused state.	
+Sunsteel Strike	44	White	Moves the battle opponent to its P.C.. The battle opponent is not knocked out	100
+Flash Cannon	36	White		100
+Melemele Wish	20	Blue	You may select 1 of your Pokémon. If you do, this Pokémon is excluded from the duel. Until the end of the duel, the selected Pokémon gets MP3 and when on the field can use an MP move to fly over Pokémon that don't have Soar.	
+Crush of Doom	36	White	If the battle opponent has a Cracked marker on it, exclude the battle opponent from the duel unless it is a Fire-type Pokémon	100
+Boomburst	36	White	An opposing Pokémon adjacent to the battle opponent spins, and if it spins a Gold Attack then it is knocked out.	110
+Hurricane	24	Purple	Moves the battle opponent to the bench. The battle opponent and all oppposing Flying-type Pokémon on the field gain Wait 3	☆☆
+Whirlwind	20	Purple	The battle opponent is moved to the bench and gains Wait.	☆
+Supersonic	20	Purple	The battle opponent becomes confused.	☆☆
+Ice Fang	20	White	If this Pokémon is knocked out, the battle opponent becomes frozen	70
+Double-Edge	28	Purple	This Pokémon and the battle opponent are knocked out	
+Bite	24	White		50
+Trick-or-Tread	20	Purple	Attach a Pumpkin marker to the battle opponent. Other Pokémon may MP move through Pokémon that have a  Pumpkin marker attached.	☆☆☆
+Seed Bomb	28	White		90
+Manipulative	32	Purple	One other Grass-type Pokémon on the field (that is not frozen) may be moved within its MP range. The moved Pokémon gains Wait. If the moved Pokémon is one of the opponent's Pokémon, that Pokémon falls asleep.	☆☆
+Destiny Bond	20	White	If this Pokémon is knocked out, so is the battle opponent	0
+Feint Attack	40	White		40
+Psycho Cut	44	White	Spin again - if Psycho Cut is spun, it deals +50 damage	70+
+Mass Hypnosis	36	Purple	The battle opponent and all Pokémon of the same species as the battle opponent fall asleep	☆☆
+Hide	20	Blue	If one of your own Pokémon neighbours this Pokémon, the two switch places	
+Sword of Justice	36	White		101
+Typhoon Slash	28	Purple	This Pokémon may switch places with its battle opponent.	☆☆
+Guillotine	20	Purple	The battle opponent is knocked out	☆
+Iron Head	32	White		50
+Rock Slide	32	White	All neigbor Pokémon spin - those that miss are knocked out.	30
+Melt and Eat	32	White	If the battle opponent's tpye is Steel, this Pokémon takes no damage and the opponent is knocked out. If the battle opponent is Durant, exclude that Durant from the duel	50
+Searing Shot	20	Purple	The battle opponent becomes burned	☆☆
+Revenge	40	White	This attack's damage is boosted by the number of Pokémon in your P.C. +20	70
+Evade	12	Blue		
+Electric Trap	56	White	The battle opponent and Flying-type Pokémon and Water-type Pokémon that are not Ground-type pokémon within 2 steps are Paralyzed	50
+Fissure	28	Purple	Knock out the battle opponent if it is not a Flying-type Pokémon	☆
+Electric Thread	32	Purple	The battle opponent becomes paralyzed. The battle opponent gains Wait 3	☆☆
+Leech Life	40	White		30
+Brain Link	32	White	Deals x2 damage if one of your own Reuniclus is within 2 steps of this Pokémon	50
+Squared Attack	24	Purple	If there are Pokémon at three entry points, switch this Pokémon with another Pokémon on the field	☆☆
+Double Slap	48	White	Spin again - if Double Slap is spun, it deals 20+ damage	40+
+Pound	44	White		30
+Petal Dance	52	White	Spin again until Petal Dance does not land - damage is multiplied by the number of Petal Dance spins. This Pokémon becomes confused.	30x
+Bumpy Vibration	24	Purple	Opposing Pokémon adjacent to your Seismitoad, Palpitoad and Tympole gain Wait.	☆☆
+Bubble	20	White		30
+Danger Signal	32	Purple	One of your Seismitoad, Palpitoad, or Tympole (that is not asleep or frozen) may be moved within their MP range. That Pokémon gains wait	☆☆
+Scratch	36	White		20
+Tractor	32	Blue	You may knock this Pokémon 1 step back and move the battle opponent to this Pokémon's previous location. If you do, the battle opponent gains Wait.	
+Wall Crusher	28	Purple	Move the battle opponent to a spot one step away from the battle opponent. If there is a Pokémon in that spot, that Pokémon moves to its PC. The battle opponent gains Wait.	☆☆
+Jet Kick	28	Gold	If the battle opponent is knocked out, this Pokémon moves to a spot 2 steps away, after the battle. This Pokémon gains Wait.	50
+Cyclone Kick	24	Purple	Moves the battle opponent to the P.C.	☆☆☆
+Weak Spot Kick	52	White	The battle opponent gains Wait 4	60
+Tail Missile	28	Gold	The battle opponent and the Pokémon behind it in a straight line spin. Those that spin Purple Attacks are knocked out.	50
+Sightseeing	28	Purple	This Pokémon jumps over the battle opponent and lands 1-2 steps away, then gains Wait	☆
+Magnetic Storm	32	Purple	This Pokémon and all neigbour Pokémon become Paralyzed	☆☆
+Pin Missile	56	White	Spin again until Pin Missile does not land - damage is multiplied by the number of Pin Missile spins	40x
+Poison Shock	36	Purple	If the battle opponent is noxious, exclude it from the duel. If its not noxious, the battle opponent becomes poisoned.	☆
+Twineedle	56	White	Spin again - if Twineedle is spun, it deals x2 damage. If this Pokémon is knocked out, the battle opponent becomes poisoned.	40x
+Turtle Missile	36	Blue	Spin or one of your opponent's Pokémon on the field--if they spin a White Attack, they are knocked out. If this Pokémon has evolved, this effect repeats for each time this Pokémon has evolved	
+Bright Flame	56	White	Spin again until Bright Flame does not land - damage is multiplied by the number of Bright Flame spins. Note that all adjacent Pokémon become burned.	50x
+Flash Over	32	Purple	The battle opponent and  opposing Pokémon adjacent to it become burned. Those Pokémon gain Wait 3	☆☆☆
+Backdraft	32	White	Move the battle opponent and opposion Pokémon adjacent to the battle opponent to their PC	120
+Solar Beam	56	White		130
+Venom Whip	36	Purple	One Pokémon within 2 steps becomes noxious.	☆☆
+Steel Wing	16	White		130
+Cold Crush	32	White		90
+Ice Charge	20	Purple	Attach a Charge Marker to this Pokémon. (Charge Markers can be removed during your turn when a battle starts.) When you remove the Charge Marker, the opposing Pokémon will become Frozen, along with any Pokémon in the same row (excluding this one), and the turn will end.	☆☆
+Surf	36	White		50
+Crabhammer	32	White	Spin again - If Crabhammer is spun, it deals 50+ damage	50+
+Crushing Flames	32	White		110
+Flame Charge	20	Purple	Attach a Charge Marker to this Pokémon. (Charge Markers can be removed during your turn when a battle starts.) When you remove the Charge Marker, the opposing Pokémon will become Burned, along with any Pokémon in the same row (excluding this one), and the turn will end.	☆☆
+Defend Order	28	Blue	One of your own Combee on the field moves next to this Pokémon	
+Power Gem	24	White		50
+Attack Order	28	White	Damage +30 for each of your own neighboring Combee	80+
+Thunder Crash	32	Gold		100
+Thunder Charge	20	Purple	Attach a Charge Marker to this Pokémon. (Charge Markers can be removed during your turn when a battle starts.) When you remove the Charge Marker, the opposing Pokémon will become Paralyzed, along with any Pokémon in the same row (excluding this one), and the turn will end.	☆☆
+Shockwave	44	White	The battle opponent and all Pokémon directly behind it are given Wait.	40
+Shake	28	White		30
+Impact	44	White	All Pokémon in a straight line behind the opponent Pokémon have to wait	40
+Dark Pulse	28	White		80
+Waterfall	56	White	If the battle opponent is a Water-type Pokémon, this Pokémon takes no damage and moves to a spot beyond the battle opponent.	40
+Flame Gun	28	Purple	The battle opponent and one Pokémon directly behind it are knocked out	☆☆
+Fire Punch	52	White	If this Pokémon is knocked out when using this move, the battle opponent becomes burned.	60
+Blue Flare	36	White	The battle opponent becomes burned	100
+Mirror Coat	24	Purple	The battle opponent is knocked out if they spin purple	☆☆
+Rockwall	24	White	If the battle opponent's Attack is 120 damage or below, this Pokémon cannot be knocked out	50
+Hot Air	28	Purple	All neigbour Pokémon become burned.	☆
+Blast	28	Purple	The opponent Pokémon is now Burned	☆
+Faint Attack	36	White		40
+Flame	24	Purple	The battle opponent becomes burned	☆☆
+Iron Tail	56	White		50
+Fire Breath	32	Purple	The battle opponent becomes burned.	
+Flame Kinesis	32	Purple	The battle opponent is moved 3 steps away from this Pokémon	☆☆
+Hyperspace Hole	32	Purple	The battle opponent is moved 3 steps away from this Pokémon	☆☆
+Megahorn	28	White		80
+Fury Attack	44	White	Spin again until Fury Attack does not land - damage is multiplied by the number of Fury Attack spins	20x
+Will-o-Wisp	28	Purple	The battle opponent becomes burned	☆
+Unhappy Light	28	Purple	The opponent Pokémon is now Confused	☆☆☆
+Glare	32	Purple	The battle opponent becomes paralyzed.	☆☆
+Poison Fang	28	White	If this Pokémon is knocked out, the battle opponent becomes poisoned.	40
+Barrier	48	Purple		☆☆
+Stomp	24	White		60
+Sacred Fire	36	White	The battle opponent becomes burned.	120
+Fierce Roar	24	Purple	Switches the battle opponent with an opposing Pokémon adjacent to the battle opponent. Those Pokémon gain Wait.	☆☆☆
+Brave Bird	56	White	This Pokémon is knocked out if the opponent's Attack deals more than half the damage that this Pokémon's Attack deals	100
+Mime	28	Purple	All adjacent Pokémon now have Wait 3. This Pokémon may move to the bench	☆
+Baton Pass	28	Blue	If one of your Pokémon neighbors this Pokémon, the two switch places	
+Confusion	24	White		20
+Skull Bash	32	Purple	The battle opponent gains Wait 3. If the battle opponent is affected by a special condition, the battle opponent is knocked out.	☆☆
+Noxious Fang	24	White	If this Pokémon is knocked out, the battle opponent becomes noxious	50
+Shuttle Flip	24	Blue	This Pokémon can take 1-2 steps back	
+Dragonbreath	36	White		50
+Slippery Swap	24	Purple	This Pokémon switches places with its battle opponent.	☆☆
+Gooey Evasion	24	Purple	Switch the position of this Pokémon with the opponent Pokémon.	☆☆
+Fury Swipes	36	White	Spin again until Fury Swipes does not land - damage is multiplied by the number of Fury Swipes spins	30x
+Slash	40	White		50
+Fly Away	12	Purple	This Pokémon jumps over the battle opponent and lands on a surrounding point.	☆☆☆
+Mist Ball	20	White		130
+Dragon Breath	32	White		100
+Fly Over	12	Purple	This Pokémon jumps over the opponent Pokémon to move to the next space.	☆☆
+Techno Blast	40	White		50
+Techno Charge	24	Purple	This Pokémon must Wait. In exchange, it receives a damage boost of +50 until the next time it lands on Techno Blast	☆☆☆
+Luster Purge	20	White		140
+Thunder	24	White		110
+Thunderous Blow	24	Gold	The battle opponent and a a succession of Pokémon adjacent to it (excluding this one), become Paralyzed.	80
+Thunder Flow	24	Gold		80
+Bolt Strike	36	White	The battle opponent becomes paralyzed.	90
+Sheer Cold	24	Purple	The battle opponent is knocked out. If the battle opponent is frozen, exclude it from the duel.	☆☆
+Withdraw	28	Blue	This Pokémon gains Wait	
+Psycho Barrier	60	Purple	This Pokémon gains Wait	☆☆
+Mysterious Wall	28	Purple	The battle opponent, or one opposing Pokémon adjacent to a succession of Pokémon adjacent to this Pokémon, become confused.	☆☆☆
+Magma Slide	32	Purple	The battle opponent is knocked 2 steps back and becomes burned. The battle opponent now has Wait.	☆☆
+Manaphy's Song	36	Purple	One other Water-type Pokémon on the field (that is not asleep or frozen) may be moved within their MP range. That Pokémon gains wait	☆☆
+Taunt	28	Purple	If this Pokémon or the opponent Pokémon spins purple, they must respin for that turn.	☆☆
+Ice Shard	32	Gold		20
+Psycho Boost	48	White		130
+Dimensional Slip	32	Purple	This Pokémon moves to the bench and gains Wait 3	☆☆☆
+Diamond Dust	24	Purple	The battle opponent becomes frozen	☆
+Sweet Scent	24	Purple	One Pokémon within 3 steps' range is drawn 1-2 steps closer to this Pokémon and gains Wait.	☆
+Razor Leaf	56	White		30
+Yawn	48	Purple	The opponent Pokémon is now Asleep	☆
+Barrage	32	White		60
+Stun Spore	28	Purple	The battle opponent becomes paralyzed.	☆
+Imprison	44	Purple	The battle opponent's Attack is disabled, and they gain an Imprisoned Marker.	☆☆☆
+Mega Hypnosis	24	Purple	The battle opponent falls Asleep	☆☆☆
+Clutch	64	White		50
+Super Psy	36	White	If this Pokémon is knocked out , the battle opponent becomes confused.	40
+Psycho Switch	24	Purple	Benches the battle opponent. This Pokémon will then switch with another of your Pokémon from the field, bench or P.C.	☆☆
+Psychokinesis	36	White	The opposing Pokémon is now Confused	40
+Fan Away	32	Purple	The battle opponent is knocked 1 step back and gains Wait	☆☆
+Razor Wind	28	White		70
+Tengu Fan	32	Purple	The opponent Pokémon is knocked back 1 space. That Pokémon has to wait	☆☆
+Razor WInd	28	White		60
+Torment	36	Purple	Both Pokémon spin twice. If the battle opponent spins the same Attack both times, it misses	☆☆
+Screech	24	Purple	All neighbor Pokémon now have Wait.	☆
+Warp Hole	32	Purple	Switches the battle opponent for a Pokémon on the field, bench or P.C. Then, those Pokémon must wait 3	☆☆
+Detect	16	Blue	On the next turn, this Pokémon gains +1 MP	
+Drive Kick	36	White	If the battle opponent is knocked out, this Pokémon claims its previous spot and gains Wait.	90
+Mach Punch	28	Gold		40
+Hard Shelled	64	White	Ifthis Pokémon is knocked out, the battle opponent gains an MP-2 marker	0
+Hard Colored	64	White	If this Pokémon faints, the opponent Pokémon has a MP-2 Marker Attached	0
+Aura Sphere	28	Purple	Either the battle opponent or a Pokémon behind it in a straight line from this Pokémon is knocked out.	☆
+Future Sight	32	Purple	This Pokémon and optionally the opponent Pokémon may respin one time.	☆☆
+Power Zap	52	White	If this Pokémon is knocked out, the battle opponent becomes paralyzed	20
+Vine Whip	28	White		40
+Sleepwalk	28	Purple	The battle opponent falls asleep. You may move one Pokémon that is asleep to a point within its MP range. The moved Pokémon gains Wait.	☆☆
+Thunder Fang	32	White	If this Pokémon is knocked out, the battle opponent becomes Paralyzed.	70
+Dynamic Punch	36	White		100
+R	8	Red		
+Fire Fang	20	White	The battle opponent is now burned. The battle opponent gains Wait	60
+Dragon Rush	36	White		100
+Double Flight	28	Purple	This Pokémon jumps over the battle opponent and lands on a surrounding point. If the opposing Pokémon is affected by a special condition, it is knocked out. After moving, this Pokémon may attack an opposing Pokémon again, but just once.	☆☆
+Dragon Claw	20	White		60
+Water Slide	28	Purple	The battle opponent is knocked 1 step back and gains Wait	☆
+Water Pulse	40	White		40
+Rock Wrecker	28	Purple	Knock out 1 of your opponent's Flying-type Pokémon within 2 steps. (When using the Long Barrel plate: "Knock out 1 of your opponent's Fire, Ice, Flying or Bug-type Pokémon that are 2 or 3 steps away.)	☆☆
+Bulldozer	28	Blue	This Pokémon knocks the battle opponent one step back and claims its previous spot	
+Rock Blast	28	White	Spin again until Rock Blast does not land - damage is multiplied by the number of Rock Blast spins	100x
+Extrasensory	24	White		70
+Lick	48	White	If this Pokémon is knocked out, the battle opponent becomes paralyzed	50
+Eats Anything	32	Purple	Switches one of the opponent's plates from unused to used. When this Pokémon (or a Pokémon that evolved from this Pokémon) leaves the field, return as many plates as were switched to be used with this Attack since this Pokémon entered the field back to unused	☆
+Grass Whistle	28	Purple	The battle opponent falls asleep	☆
+Thrash	64	White	This Pokémon becomes confused	50
+Horn Drill	28	Purple	The battle opponent is Knocked Out	☆
+Electric Blast	32	Purple	All Pokémon adjacent to the opponent Pokémon are Paralysed	☆☆
+Thunder Punch	48	White	If this Pokémon is knocked out when it uses this attack, the battle opponent becomes paralyzed.	60
+Water Shuriken	40	Gold	Spin again until Water Shuriken attack does not land - damage is multiplied by the number of Water Shuriken Attack spins. An opponent next to the target spins, and if it spins a Purple Attack, then it is knocked out	20x
+Aerial Ace	44	White		50
+Toxic Spikes	32	Purple	The battle opponent becomes poisoned. This Pokémon retreats one step	☆☆
+Rapid Spin	36	White	Spin again until Rapid Spin does not land - damage is multiplied by the number of Rapid Spin spins	20x
+Mid-Air Strike	32	White	Opponent Pokémon is pushed back one space. This Pokémon gains Wait	60
+Aerial Attack	32	White	Opponent Pokémon is pushed back one space. This Pokémon waits	60
+Thunder Shock	60	White		40
+Tentacle Barrage	52	White	This move's damage is boosted by the number of Pokémon on the field that know moves that can cause Poison or Toxic status effect, plus 10.If this Pokémon faints, the battle opponent will become Poisoned	40
+Conceal	64	White	If the damage inflicted onto this Pokémon is 100 or less, this Pokémon does not faint.	10
+Harden	68	White	If the battle opponent spins an Attack of 100 damage or less, this Pokémon is not knocked out. While this Pokémon is on the field, the Attacks of this Pokémon, other than Harden, deal +10 damage	0
+Astonish	48	White		20
+Smog	44	Purple	The battle opponent is poisoned.	☆
+Sludge	40	White	If this Pokémon is knocked out, the battle opponent becomes poisoned	30
+Rollout	40	White	Spin again until Rollout does not land - damage is multiplied by the number of Rollout spins	40x
+Landslide	40	Purple	The battle opponent is knocked 1 step back and gains Wait	☆
+Needle Arm	20	White	The battle opponent gains Wait	50
+Arm Thrust	40	White	Spin again until Arm Thrust does not land - damage is multiplied by the number of Arm Thrust spins. If the number of attacks spun was 2 or more, this Pokémon cannot be knocked out	30x
+Karate Chop	20	White		50
+Parting Shot	28	Purple	This Pokémon may switch with a Pokémon on your bench. The battle opponent now has Wait.	☆☆
+Take Down	20	White		90
+Spiky Shield	40	Purple	The battle opponent is knocked 2 steps back and gains Wait 3	☆☆
+Assist	24	Purple	A random Pokémon on your bench other than Liepard spins. The attack that is spun takes the place of this attack	☆
+Draining Wind	20	Purple	One Pokémon within 3 steps' range is drawn 1-2 steps closer to this Pokémon and gains Wait.	☆☆☆
+Oblivion Wing	44	White		111
+Dark Mist	20	Purple	When this Pokémon is on the field, your Dark-type Pokémon receive a +10 boost to attack damage	☆☆
+Drain Wind	20	Purple	Move a Pokémon within 3 steps of this Pokémon to 1 or 2 spaces from this Pokémon. Their movement is reduced by one	☆☆☆
+Geomancy	12	White	Spin again until an Attack other than Geomancy is spun. Damage attacks do +50 damage	
+Fairy Mist	20	Purple	When this Pokémon is on the field, your Fairy-type Pokémon receive a +10 boost to attack damage	☆☆
+Vice Grip	28	White		50
+Trickery	28	Blue	Shifts this Pokémon's Attacks two segments clockwise	
+Sand-Attack	28	Blue	This Pokémon's move may shift two places clockwise	
+Lullaby	36	Purple	All adjacent Pokémon are Asleep	☆
+Hyper Voice	12	White		70
+Burrow	32	Purple	This Pokémon moves to the other side of the opposing Pokémon	☆☆
+Push Away	30	Purple	This Pokémon knocks the battle opponent one step back and claims its previous spot	☆☆
+Slap Push	24	White		60
+Harite	24	White		40
+Throw Back	32	Purple	This Pokémon knocks the opponent back one space and moves onto the space the opponent occupied	☆☆
+Hex	20	White	If the battle opponent has a status condition, damage is x2	50
+Water Jump	8	Blue	This Pokémon can move to a point that is 2 steps away. In that case, it gains Wait	
+Sacred Sword	36	White		51
+Hydro Kick	32	White	Benches your battle Pokémon (excent when opponent has Fainted). Your battle opponent must then Wait.	40
+Eerie Light	32	Purple	The battle opponent becomes confused	☆
+Rest	16	Purple	This Pokémon falls asleep	☆
+Fake Sleep	24	Purple	Allows this Pokémon to respin once	☆☆☆
+Spark	32	White		20
+Body Slam	32	White	The battle opponent becomes paralyzed.	110
+Tentacle Sting	56	White	If this Pokémon is knocked out, the battle opponent becomes poisoned or paralyzed	80
+Paralysis Job	56	White	If this Pokémon faints, the opponent Pokémon will be either Poisoned or Paralysed	80
+Land's Wrath	24	White	All other Pokémon on the field spin - those that spin purple are knocked out	70
+Twister	28	White		50
+Tornado	28	White		50
+Wing Attack	36	White		20
+Vanish	20	Blue	This Pokémon moves to the bench and gains Wait.	
+Disappear	20	Blue	This Pokémon returns to the bench. This Pokémon must wait 1 turn	
+Iron Defense	20	Blue	This Pokémon gains Wait.	
+Startling Powder	36	Purple	The battle opponent either becomes poisoned, paralyzed, or fals asleep.	☆
+Super Powder	36	Purple	The opponent Pokémon becomes Poisoned, Paralysed or Asleep	☆
+Poison Gas	32	Purple	The battle opponent becomes poisoned	☆☆
+Psychic Blow	32	Purple	Push the Pokémon backwards on the board as far as they can go. If they hit any other Pokémon, they are pushed back too. All Pokémon wait 1 turn	☆☆
+Wrap	12	White		10
+Toxic Fluid	28	Purple	The battle opponent becomes noxious.	☆☆
+Poison Tail	36	White	If this Pokémon is knocked out, the opponent Pokémon becomes poisoned	50
+Toxic Venom	24	Purple	The opponent Pokémon is now Badly Poisoned	☆☆
+Cross Poison	28	White		70
+Crush Claw	16	White		90
+Tease	28	Purple	Switch this Pokémon with the adjacent opponent Pokémon.	☆
+Hyper Take Down	24	White	If the battle opponent is knocked out, this Pokémon claims its previous spot and gains Wait.	90
+Psychic Power	8	Purple	The battle opponent is moved to the bench and gains Wait.	☆
+Psycho Power	8	Purple	Move this Pokémon to the Bench. This Pokémon has to wait 1 turn	☆
+Acrobatics	28	White	If the battle opponent is knocked out, this Pokémon moves one step and gains Wait.	50
+Poison Kick	28	White	If this Pokémon is knocked out, the battle opponent becomes poisoned	40
+Horn Attack	16	White		70
+Hammer	48	White		110
+Press	28	White	If the opponent's Pokémon is knocked out, so is this Pokémon.	60
+Flight	44	Purple	This Pokémon jumps over the opponent Pokémon	☆☆☆
+Sweet Kiss	32	Purple	The battle opponent becomes confused	☆
+Lovely Kiss	28	Purple	The opponent Pokémon is now Asleep	☆
+Spit Poison	32	Purple	The battle opponent becomes poisoned	☆☆
+Venom	32	Purple	The opponent Pokémon is now Poisoned	☆☆
+False Swipe	24	White		20
+Dragon Rage	64	White		70
+Dark Void	24	Purple	The battle opponent and all opposing Pokémon adjacent to it spin, and if they spin a White Attack, they fall asleep	☆
+Dark Leap	24	Purple	You can move this Pokémon 2 steps. If you do, this Pokémon gains Wait	☆☆
+Dark Leave	24	Purple	The opponent Pokémon is pushed 2 places away. The opponent waits	☆☆
+Poison Powder	24	Purple	The battle opponent becomes poisoned	☆
+Self-Destruct	24	Purple	This Pokémon and the battle opponent are knocked out	☆☆☆
+Self Destruct	20	Purple	This Pokémon and all adjacent Pokémon faint.	☆☆☆
+Headbutt	20	White		90
+Wash Away	28	Purple	The battle opponent is knocked  back 2 steps and gains Wait.	☆☆
+Scissor Toss	28	Purple	The battle opponent is knocked  back 1 step and gains Wait.	☆
+Scissor Guillotine	12	Purple	Stuns the opponent Pokémon	☆
+Scissor Throw	24	Purple	Knocks opponent Pokémon out. Opponent Pokémon waits 1 turn	☆
+Push Aside	24	Purple	The battle opponent is moved to the bench and gains Wait.	☆☆
+Freeze Tail	44	White	If this Pokémon is knocked out, the battle opponent becomes frozen.	30
+Tail Snap	52	White		30
+Mystery Disappearance	20	Purple	The opponent moves back to the bench. It has to wait 1 turn	☆☆
+Tail Slap	52	White		30
+Spacial Rend	32	White	If the battle is a tie, the battle opponent is excluded from the duel	120
+Thunderbolt	24	White		100
+Fire Spin	56	White	Spin again until Fire Spin does not land - damage is multiplied by the number of Fire Spin spins	50x
+Teeter Dance	32	Purple	All neighbour Pokémon become confused	☆
+Disable	28	Purple	The battle opponent now has Wait.	☆☆
+Butterfly Effect	32	White	If this Pokémon faints, then the opponent Pokémon is now Confused.	40
+Tidal Wave	32	Purple	All neighbour Pokémon are knocked 3 steps back and gain Wait.	☆
+Submission	28	White		80
+Healing Wish	32	Purple	This Pokémon switches with another of your Pokémon from the P.C.	☆☆
+Heal Pulse	24	Purple	Remove all Special Effects of all adjacent Pokémon	☆
+Whisk	12	White		40
+Overhead Toss	28	Purple	The opponent is moved 1 step behind this Pokémon	☆
+Slam	56	White		40
+Big Bite	48	White	If the battle opponent's type is Steel, this Pokémon takes no damage and the opponent is knocked out.	40
+Bite Down	48	White	If the opponent Pokémon is a Steel Pokémon, this Pokémon does not get Knocked Out. Opponent Pokémon is stunned.	40
+Blind	20	Blue	This Pokémon moves 1-2 steps back	
+Aeroblast	24	White		70
+Cyclone	24	Purple	The battle opponent is moved to the bench and gains Wait.	☆☆☆☆
+Aero Blast	24	White		70
+High Jump Kick	20	White		50
+Fake Tears	24	White	Spin again until an attack other than Fake Tears is spun. Damage attacks deal +20 damage,	0
+Focus Punch	56	White		40
+Hyper Fang	28	White		70
+Pull In	28	Purple	Moves the battle opponent to the P.C. and moves this Pokémon to the bench	☆☆☆
+Cut	44	White		50
+Rock Smash	48	White		20
+String Wrap	52	Purple	Attaches an MP-1 marker to the battle opponent	☆
+String Shot	52	Purple	The opponent's movement is reduced by 1	☆
+Defense Curl	24	White	If the battle opponent's Attack is below 50 damage, this Pokémon cannot be Knocked out.	0
+Tail Smack	20	White		30
+Rock Charm	24	White		30
+Step Away	28	Blue	This Pokémon moves 1-3 steps back.	
+Beware	28	Blue	This Pokémon moves back 1 to 3 spaces	
+Playful	32	White		10
+Flame Tail	24	White		40
+Smokescreen	28	Purple	The battle opponent now has Wait.	☆
+Pierce Through	20	White		130
+Skewer	20	White		120
+Kick Away	28	Purple	The battle opponent is knocked 2 steps back (the opponent chooses the point) and gains Wait	☆
+Kick	28	Purple	Opponent is forced to move 2 spaces backwards. Position is chosen by opponent	☆
+Roar of Time	40	White	Return the battle opponent to their start-of-the-duel state (excluding evolution)	130

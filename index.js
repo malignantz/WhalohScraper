@@ -320,7 +320,7 @@ function parseFigure($) {
 
 function figuresTSV() {
   let header =
-    Object.keys(DB[key][0])
+    Object.keys(DB.figures[0])
       .filter(x => x !== "attacks")
       .join(",") + "\n";
 
@@ -333,17 +333,19 @@ function figuresTSV() {
   }, "");
 }
 
+// this is broken...weird output.
+
 function attacksTSV() {
-  let header = Object.keys(DB.attacks.Dodge).join(",") + "\n";
+  let header = "name\t" + Object.keys(DB.attacks.Dodge).join("\t") + "\n";
 
-  let attacks = Object.keys(DB.attacks);
+  let attacks = Object.keys(DB.attacks); // attacks = [wheelsize, color, notes, damage]
 
-  return attacks.reduce((tsv, item) => {
-    for (var name in item) {
-      tsv += item[prop] + "\t";
-    }
-    return tsv.slice(0, -1) + "\n";
-  }, "");
+  return attacks.reduce(
+    (tsv, attackName) =>
+      tsv +
+      `${attackName}\t${Object.values(DB.attacks[attackName]).join("\t")}\n`,
+    header
+  );
 }
 function makeTSVData(key) {
   // doesn't include moves

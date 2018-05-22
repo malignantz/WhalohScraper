@@ -1,0 +1,420 @@
+Dialga	1	2	ex	steel	dragon	time distortion - if there are other pokémon on your bench, this pokémon cannot enter the field using an mp move.
+Tauros	2	2	c	normal		none
+Armaldo	3	1	r	rock	bug	swift swim - if there is an adjacent water-type pokémon, this pokémon gains +1mp
+Charmander	4	3	uc	fire		none
+Mightyena	5	2	uc	dark		none
+Ekans	6	3	c	poison		none
+Bayleef	7	2	c	grass		spicy scent - this pokémon gains +20 damage in battles in your turn
+Snubbull	8	2	c	fairy		none
+Plusle	9	3	c	electric		plus - when minun is adjacent to this pokémon, the white attacks of your electric pokémon gain the battle opponent becomes paralyezed
+Seedot	10	2	c	grass		none
+Metagross	11	1	ex	steel	psychic	none
+Sentret	12	2	c	normal		none
+Golem	13	1	uc	rock	ground	none
+Spinarak	14	3	uc	bug	poison	sticky web - other pokémon cannot use fly away to pass over this pokémon
+Aipom	15	3	uc	normal		run off - before using this pokémon, you can switch its position with another one of your own pokémon in an adjacent space.
+Sandshrew	16	2	c	ground		sand veil - if this pokémon is to be attacked, it may slip past the attacking pokémon
+Murkrow	17	3	r	dark	flying	none
+Caterpie	18	1	uc	bug		none
+Mudkip	19	3	uc	water		none
+Bidoof	20	2	c	normal		none
+Steelix	21	1	r	steel	ground	none
+Marill	22	2	c	water	fairy	none
+Raticate	23	2	c	normal		none
+Machop	24	2	c	fighting		none
+Luxray	25	2	r	electric		blue spark - the dodges of opposing pokémon adjacent to this pokémon become misses.
+Poliwag	26	3	c	water		none
+Teddiursa	27	2	c	normal		none
+Tyrogue	28	2	c	fighting		none
+Chespin	29	2	uc	grass		none
+Lugia	30	2	ex	psychic	flying	marine rage - this pokémon games +10 damage for each water-type pokémon in each player's bench
+Shinx	31	3	c	electric		none
+Aron	32	2	uc	steel	rock	none
+Emolga	33	3	c	electric	flying	none
+Doduo	34	3	c	normal	flying	none
+Treecko	35	3	uc	grass		wall-climb - while on the bench, this pokémon can mp move over non-ghost-type pokémon
+Heracross	36	2	r	bug	fighting	none
+Deino	37	2	c	dark	dragon	none
+Combee	38	3	uc	bug	flying	thicket slip - this pokémon can mp move past grass-type pokémon on the field
+Squirtle	39	3	uc	water		none
+Meowth	40	2	r	normal		none
+Zubat	41	3	c	poison	flying	none
+Ho-Oh	42	2	ex	fire	flying	serene light - when this pokémon is knocked out, all pokémon in your p.c. are moved to the bench (this pokémon excluded).
+Skarmory	43	2	r	steel	flying	none
+Audino	44	1	c	normal		assist - any pokemon adjacent to this pokemon will do +30 damage.
+Machamp	45	2	r	fighting		guts - if this pokémon has a special condition, it deals +50 damage
+Kyogre	46	1	ex	water		primal rage - if the opponent has groudon, kyogre or rayquaza on the field, this pokémon gets mp +1 and does +20 damage
+Psyduck	47	2	uc	water		migraine - if your opponent spins a purple attack, you can force them to respin once a turn.
+Spinda	48	2	c	normal		own tempo - this pokémon cannot be confused
+Shroomish	49	2	c	grass		none
+Charizard	50	1	ex	fire	flying	speed booster - when this pokémon evolves, it will gain +1 mp
+Wobbuffet	51	2	r	psychic		bide - this pokémon cannot battle.
+Pikachu	52	2	uc	electric		none
+Palkia	53	2	ex	water	dragon	space distortion - if there are other pokémon on your bench, this pokémon cannot enter the field using an mp move
+Cacnea	54	2	c	grass		none
+Froakie	55	3	uc	water		none
+Dratini	56	2	r	dragon		none
+Eevee	57	3	r	normal		spontaneous evolution - whenever this pokémon moves from the p.c. to the bench, it can evolve.
+Minun	58	3	c	electric		minus - when plusle is adjacent to this pokémon, the white attacks of your electric pokémon gain the battle opponent becomes paralyezed
+Pinsir	59	2	r	bug		none
+Feraligatr	60	1	ex	water		speed booster - when this pokémon evolves, it will gain +1 mp
+Bagon	61	2	uc	dragon		none
+Kabuto	62	2	uc	rock	water	battle armor - if your battle opponent spins an attack with 10 or more damage, you can force them top spin again once per turn
+Geodude	63	2	c	rock	ground	none
+Bulbasaur	64	3	uc	grass	poison	none
+Magnemite	65	3	c	electric	steel	none
+Fennekin	66	3	uc	fire		none
+Darkrai	67	2	ex	dark		bad dreams - opposing pokémon that are asleep adjacent to this pokémon are knocked out. (pokémon passed while moving do not count).
+Absol	68	2	r	dark		none
+Drowzee	69	1	c	psychic		insomnia - this pokémon can't be asleep
+Salamence	70	2	r	dragon	flying	none
+Mareep	71	2	c	electric		none
+Exeggcute	72	2	c	grass	psychic	none
+Scyther	73	2	uc	bug	flying	none
+Goomy	74	1	c	dragon		gooey - pokémon that battle with this pokémon gain wait.
+Smoochum	75	3	c	ice	psychic	none
+Spearow	76	2	c	normal	flying	none
+Gabite	77	2	r	dragon	ground	sand veil - if this pokémon is attacked, it can move under the opponent's pokémon to another space next to it. (a battle does not occur.)
+Dedenne	78	3	c	electric	fairy	none
+Hawlucha	79	2	c	fighting	flying	high flying - this pokémon can also attack pokémon that are two spaces away, provided that there is a pokémon between them.
+Groudon	80	1	ex	ground		primal rage - if the opponent has groudon, kyogre or rayquaza on the field, this pokémon gets mp +1 and does +20 damage
+Nidoran♂	81	2	c	poison		none
+Fletchling	82	2	c	normal	flying	none
+Espurr	83	2	c	psychic		none
+Beedrill	84	3	c	bug	poison	none
+Ledyba	85	2	c	bug	flying	swarm - instead of an mp move, this pokémon may move on of your ledian or ledyba on the field next to itself. if there are no opposing pokémon at any of your entry points, you may move one of your ledian or ledyba on the bench next to this pokémon. in either case, your turn ends
+Rhyhorn	86	1	c	ground	rock	onslaught - this pokémon can move up to 2 steps in a straight line.
+Torchic	87	3	uc	fire		fire leak - any grass-type pokémon or bug-type pokémon that battles this pokémon will become burned.
+Mankey	88	3	c	fighting		none
+Zangoose	89	2	uc	normal		immunity - this pokémon cannot be poisoned or noxious
+Weedle	90	1	c	bug	poison	none
+Drapion	91	2	r	poison	dark	battle armor - if your battle opponent spins an attack with 10 or more damage, you can force them top spin again once per turn
+Pachirisu	92	3	c	electric		run away - when this pokémon is attacked, it can move to the bench. if it does, it gains wait.
+Venusaur	93	1	ex	grass	poison	chemical pollen - when this pokémon is on the field, all poisoned and noxious pokémon have mp-1. this effect does not stack
+Seviper	94	2	uc	poison		none
+Piplup	95	3	uc	water		none
+Mewtwo	96	2	ex	psychic		rapid approach - all the blue attacks of htis pokémon's battle opponents become misses
+Weezing	97	2	uc	poison		none
+Goodra	98	2	r	dragon		slime barrier - this pokémon negates status effects for your opponent's white attacks
+Girafarig	99	2	uc	normal	psychic	none
+Butterfree	100	2	uc	bug	flying	compound eyes - if this pokémon has evolved, and its attack lands on miss, it will shift to an attack next to it instead.
+Blastoise	101	2	ex	water		none
+Lapras	102	2	r	water	ice	ice wall - this pokémon cannot be frozen
+Staraptor	103	2	uc	normal	flying	none
+Pikachu	104	2	r	electric		none
+Bronzong	106	1	uc	steel	psychic	none
+Sneasel	107	2	r	dark	ice	team play - this pokémon deals +20 damage for each friendly sneasel on the field
+Carvanha	108	2	c	water	dark	group attack - if there is a carvanha within 2 spaces of this pokémon, this pokémon's white attacks become gold attacks.
+Turtwig	109	2	uc	grass		none
+Mew	110	3	ex	psychic		none
+Taillow	111	2	c	normal	flying	none
+Rayquaza	112	1	ex	dragon	flying	primal rage - if the opponent has groudon, kyogre or rayquaza on the field, this pokémon gets mp +1 and does +20 damage
+Tropius	114	1	uc	grass	flying	none
+Pangoro	115	2	r	fighting	dark	mold breaker - this pokémon negates abilities that boost or lower attack damage for your opponent.
+Rattata	116	2	c	normal		(pre 1.1)run away - when this pokémon is attacked, you may return it to the bench. this pokémon waits 1 turn(post 1.1) none
+Electabuzz	117	2	r	electric		connection - this pokémon's damage is increased by +10 for every electric-type pokémon it is connected to.
+Tyranitar	118	1	r	rock	dark	speed booster - when this pokémon evolves, it will gain +1 mp
+Zygarde	119	1	ex	dragon	ground	land's call - your ground-type pokémon deal +10 damage when this pokémon is on the field, unless this pokémon is affected by a special condition
+Tentacruel	120	1	r	water	poison	none
+Snorlax	121	1	ex	normal		still - this pokémon cannot be moved by other pokémon's attacks (except sweet scent). this pokémon can't be affected by any conditions other than sleep
+Bellsprout	122	2	uc	grass	poison	none
+Voltorb	123	3	uc	electric		none
+Xatu	124	1	uc	psychic	flying	none
+Chimchar	125	3	uc	fire		none
+Banette	126	2	r	ghost		infiltrator - on the field, this pokémon can pass through other pokémon
+Slaking	127	2	r	normal		truant - this pokémon cannot attack in the same turn as it made an mp move
+Haunter	128	2	uc	ghost	poison	infiltrator - on the field, this pokémon can pass through other pokémon
+Larvitar	129	2	uc	rock	ground	none
+Keldeo	130	3	ex	water	fighting	justified - this pokémon's damage is increased by the number of opposing dark-type pokémon on the field, plus 10
+Giratina	131	1	ex	ghost	dragon	shadow - instead of an mp move, you can move this pokémon through an adjacent pokémon to a spot next to that pokémon. this ends your turn
+Hariyama	132	2	uc	fighting		none
+Diglett	133	2	uc	ground		none
+Corphish	134	2	uc	water		surprise back - when attacked, you can move this pokémon back two steps without battling. it gains wait.
+Jigglypuff	135	2	r	normal	fairy	none
+Mawile	136	2	uc	steel	fairy	none
+Cyndaquil	137	3	uc	fire		rally - this pokémon's ember gains +20 damage for each of your pokémon in the p.c.
+Xerneas	138	2	ex	fairy		force balance - when placed adjacent to this pokémon, your pokémon will be boosted from 0-1mp to 2 mp, and your opponent's pokémon will be reduced from 3+mp to 2mp
+Yveltal	139	2	ex	dark	flying	none
+Liepard	140	2	r	dark		none
+Chesnaught	142	2	ex	grass	fighting	none
+Poliwhirl	143	2	uc	water		spinning pattern - this pokémon's spin will miss by two segments in a clockwise direction
+Lairon	144	2	c	steel	rock	noneevolution chain
+Skorupi	145	2	uc	poison	bug	irritating sting - any psychic-type pokémon that battles this pokémon will become confused.
+Onix	146	1	r	rock	ground	none
+Gible	147	1	uc	dragon	ground	raid - instead of using an mp move, this pokémon can move to within 3 spaces of an opponent's pokémon
+Pancham	148	3	uc	fighting		arm thrust evolution - if this pokémon spins arm thrust three or more times in a battle, it may evolve after the battle
+Quilladin	149	2	uc	grass		none
+Graveler	150	1	c	rock	ground	noneevolution chain
+Koffing	152	2	c	poison		noneevolution chain
+Gastly	153	3	r	ghost	poison	gaseous form - this pokémon cannot surround the opponent's pokémon, and cannot be surrounded itself. it can also move through other pokémon when making an mp move
+Hoothoot	154	2	uc	normal	flying	insomnia - this pokémon cannot be affected by sleep
+Metapod	155	0	uc	bug		metamorphosis - if this pokémon is not knocked out in battle, it can evolve.
+Shelgon	156	1	c	dragon		noneevolution chain
+Tentacool	158	2	uc	water	poison	form herd - the 3-pokémon limit does not apply to this pokémon
+Pichu	159	3	uc	electric		open circuit - any water-type pokémon that battles this pokémon will become paralyzed
+Monferno	160	2	c	fire	fighting	noneevolution chain
+Grotle	161	2	c	grass		foundation - your pokémon may move over this pokémonevolution chain
+Wartortle	162	2	c	water		noneevolution chain
+Gyarados	163	1	r	water	flying	speed booster - when this pokémon evolves, it will gain +1 mp
+Frogadier	164	2	uc	water		none
+Prinplup	166	2	c	water		dive entry - this pokémon can move one additional space on the board when moving from the benchevolution chain
+Swellow	167	2	uc	normal	flying	guts - if this pokémon has a special condition, it deals +50 damage
+Swampert	168	1	ex	water	ground	mud coating - when this pokémon is on the field, if there are 3 or more wster-type pokémon on the field, your ground-type  pokémon with mp1 or lower get +1mp
+Flaaffy	169	2	uc	electric		electric fur - if this pokémon is not affected by a special condition, all of the blue-attacks of non-ground-type battle opponents of this pokémon become misses. this pokémon cannot be paralyzed
+Greninja	170	3	ex	water	dark	none
+Electivire	171	2	ex	electric		ace - this pokémon can't be paralyzed
+Rhydon	172	1	uc	ground	rock	reckless charge - this pokémon can move up to 2 steps in a straight line
+Flygon	173	2	r	ground	dragon	sand blizzard - your opponent's fly away effects are nullified. when this pokémon is on the field and has evolved, the soar effects of pokémon on the field are nullified
+Purrloin	174	3	uc	dark		none
+Ledian	175	2	uc	bug	flying	swarm - instead of an mp move, this pokémon may move on of your ledian or ledyba on the field next to itself. if there are no opposing pokémon at any of your entry points, you may move one of your ledian or ledyba on the bench next to this pokémon. in either case, your turn ends
+Sylveon	176	2	r	fairy		purity veil - your opponent's dark-type pokémon will do -20 damage
+Pupitar	177	3	uc	rock	ground	beat down - all the blue attacks of the battle opponents of this pokémon become misses
+Igglybuff	178	2	uc	normal	fairy	balloon body - if a pokémon finishes an mp move next to this pokémon, this pokémon moves 1 space away.
+Leafeon	179	2	r	grass		thicket slip - this pokémon can mp move past grass-type pokémon on the field.
+Croconaw	180	2	c	water		biting movement - this pokémon can always attack after movingevolution chain
+Munchlax	181	2	r	normal		gluttony - when in the p.c., this pokémon will move back to the bench if sweet scent is spun on the field
+Makuhita	182	2	uc	fighting		none
+Bronzor	183	2	uc	steel	psychic	refraction - friendly pokémon next to this pokémon cannot be affected by any new status effects
+Golbat	185	2	uc	poison	flying	none
+Rhyperior	186	1	ex	ground	rock	none
+Vaporeon	187	3	r	water		none
+Jolteon	188	3	r	electric		thunder rush - this pokémon can mp move past paralyzed pokémon.
+Marshtomp	189	1	r	water	ground	mud coating - when this pokémon is on the field, if there are 3 or more wster-type pokémon on the field, your ground-type  pokémon with mp1 or lower get +1mp
+Garchomp	190	2	ex	dragon	ground	none
+Empoleon	191	2	ex	water	steel	diving entry - when moving this pokémon from the bench, it can only move to one space away from the entry point. your turn ends.
+Poliwrath	192	2	r	water	fighting	hypnotic stare - any pokémon that battles this pokémon will become confused
+Poochyena	193	3	uc	dark		none
+Luxio	196	2	uc	electric		blue spark - the dodges of opposing pokémon adjacent to this pokémon become misses.
+Hypno	197	2	r	psychic		spellbind - while this pokémon is on the field, the sleep condition is not removed by the effects of other abilities
+Magikarp	198	2	c	water		rapid evolution - when this pokémon faints in battle, you can evolve it without sending it to the p.c.
+Ivysaur	199	2	c	grass	poison	noneevolution chain
+Elekid	200	3	c	electric		connection - this pokémon's damage is increased by +10 for every electric-type pokémon it is connected to
+Natu	201	2	uc	psychic	flying	none
+Raichu	202	2	uc	electric		grounding - this pokémon cannot be paralysed
+Lucario	203	2	ex	fighting	steel	none
+Kakuna	205	0	uc	bug	poison	metamorphosis - if this pokémon is not knocked out in battle, it can evolve
+Wigglytuff	206	2	r	normal	fairy	hypnotic voice - the next turn after using this pokémon, your opponent will be unable to use plates
+Aggron	207	1	ex	steel	rock	territoriality - while this pokémon is on the bnch, it gains +1 mp. your opponent's pokémon cannot pass by this pokémon with an mp move. any opposing pokémon that has used an mp move to move next to this pokémon must attack it on that turn.
+Infernape	208	2	ex	fire	fighting	none
+Totodile	209	3	uc	water		bite instinct - this pokémon must battle if possible after making an mp move
+Gardevoir	211	2	ex	psychic	fairy	ghost sensor - your opponent's pokémon cannot slip past this pokémon using the effects of infiltrator, shadow or gaseous form.
+Vibrava	212	2	uc	ground	dragon	vibrating sound - your opponent's pokémon cannot pass next to this pokémon using an mp move. if the pokémon your opponent moved last turn is next to this pokémon, it cannot attack.
+Nuzleaf	213	2	uc	grass	dark	none
+Shiftry	214	2	r	grass	dark	cut off - when this pokémon is on the field, it can move to your goal point instead of making an mp move (ends your turn)
+Kirlia	215	2	r	psychic	fairy	ghost sensor - your opponent's pokémon cannot slip past this pokémon using the effects of infiltrator, shadow or gaseous form.
+Noctowl	216	2	uc	normal	flying	insomnia - this pokémon cannot be affected by sleep
+Ralts	217	3	r	psychic	fairy	ghost sensor - your opponent's pokémon cannot slip past this pokémon using the effects of infiltrator, shadow or gaseous form.
+Deoxys	218	3	ex	psychic		cross wind - this pokémon does not spend mp when moving from the bench to an entry point. the 3-pokémon limit does not apply  to this pokémon in your deck
+Deoxys	219	2	ex	psychic		none
+Exeggutor	220	1	uc	grass	psychic	bigg eggsplosion - before battle, allows one of friendly exeggcute to be choosed. if barrage is spun, it deals +60 damage. if it does, the exeggcute is knocked out
+Slakoth	221	1	uc	normal		doze - this pokémon will wake up from sleep condition at the start of your turn and you will be able to use it again.
+Chikorita	222	3	uc	grass		refreshing aroma - when this pokémon moves from the bench to the field, remove any special conditions from all of your pokémon on the field
+Glaceon	223	3	r	ice		none
+Deoxys	224	2	ex	psychic		reflective laser - once per turn, you can force your opponent to spin again. the 3 pokémon limit does not apply to this pokémon in your deck
+Weavile	225	2	r	dark	ice	team play - this pokémon deals +20 damage for each friendly weavile on the field
+Manaphy	226	1	ex	water		ocean's gift - if this pokémon is on the field, your  water-type pokémon's attacks do +20
+Heatran	227	2	ex	fire	steel	surprise strike - if there is an opponent's pokémon on your entry point, and this pokémon is on the bench, at the beginning of your turn, this pokémon can move next to that pokémon and battle. after the battle, if this pokémon is not knocked out, move it to your bench
+Mr. Mime	228	2	r	psychic	fairy	invisible wall - opposing pokémon cannot pass by this pokémon nor a continuous succession of your pokémon adjacent to it with an mp move
+Deoxys	229	1	ex	psychic		shelter - this pokémon and your pokémon next to it will be protected from instant knock out effects of attacks. the 3 pokémon limit does not apply to this pokémon in your deck
+Torterra	230	1	ex	grass	ground	cornerstone - other pokémon can move over this pokémon when using an mp move
+Suicune	231	2	ex	water		purification - when this pokémon moves from the bench to the field, remove any special conditions and curse markers from all the pokémon you have in the duel
+Zekrom	232	2	ex	dragon	electric	dark stone - this pokémon gains wait 9 at the start of the duel
+Raikou	233	2	ex	electric		non-stop - this pokémon cannot have wait. can mp move through pokémon on the field that are paralyzed or have wait.
+Latios	234	3	ex	dragon	psychic	hallucination - if this pokémon is knocked out, it is removed from the duel
+Genesect	235	3	ex	bug	steel	hoverjet - this pokémon can mp move over your other pokémon on the field
+Latias	237	3	ex	dragon	psychic	hallucination - if this pokémon is knocked out, it is removed from the duel
+Vigoroth	238	3	uc	normal		max vital spirit - this pokémon can mp move as far as its mp range will allow.
+Sliggoo	239	2	uc	dragon		gooey - pokémon that battle with this pokémon gain wait.
+Crobat	240	3	r	poison	flying	diffuse poison - when this pokémon is on the field, all poisoned pokémon will do a further -20 damage. this effect does not stack.
+Sharpedo	241	2	r	water	dark	prey scent - if an opponent's pokémon has a special condition, this pokémon gains +1 mp
+Mime Jr.	242	3	uc	psychic	fairy	none
+Talonflame	243	2	r	fire	flying	gale wings - in its first battle after moving to the field, all of this pokémon's white attacks become gold attacks
+Entei	244	2	ex	fire		fire rush - can mp move past burned pokémon. this pokémon on the bench gains +1mp
+Quilava	245	2	c	fire		rally - this pokémon's ember is increased by 20 for each pokémon in your p.c>evolution chain
+Braixen	246	2	uc	fire		none
+Fletchinder	247	3	uc	fire	flying	gale wings - in its first battle after moving to the field, all of this pokémon's white attacks become gold attacks
+Flareon	248	3	r	fire		none
+Arbok	249	2	uc	poison		shed skin - this pokémon will recover from any status effect at the start of your turn, and the turn will end
+Magmar	250	2	r	fire		lava therapy - this pokémon can't be frozen or put to sleep.
+Shuppet	251	3	uc	ghost		infiltrator - on the field, this pokémon can pass through other pokémon
+Seaking	252	2	uc	water		swift swim - if there is an adjacent water-type pokémon, this pokémon gains +1mp.
+Delphox	253	2	ex	fire	psychic	magic trick_miss - if this pokémon spins miss in battle, one of your plates will switch from used to unused.
+Magby	254	3	uc	fire		fire leak - any grass-type pokémon or bug-type pokémon that battles this pokémon will become burne.
+Charmeleon	255	2	c	fire		noneevolution chain
+Umbreon	256	3	r	dark		synchronize - when this pokémon becomes poisoned, noxious, paralyzed, burned etc. by an attack, the pokémon that caused the condition will also become it.
+Typhlosion	258	1	ex	fire		flame acceleration - mp+1 for this pokémon for each pokémon you have in your p.c.
+Espeon	259	3	r	psychic		behavioral prediction - this pokémon gains +1 ☆
+Corsola	260	1	r	water	rock	coral power - if this pokémon is not poisoned or noxious, while this pokémon is on the field, your non-corsola water-type pokémon with mp1 gain +1 mp
+Reshiram	261	2	ex	dragon	fire	light stone - this pokémon gains wait 9 at the start of the duel
+Magmortar	262	2	ex	fire		none
+Goldeen	263	2	uc	water		swift swim - if there is an adjacent water-type pokémon, this pokémon gains +1mp.
+Hydreigon	264	1	r	dark	dragon	band attack - this pokémon deals +10 damage for each hydreigon, zweilous or deinp on the field. if this pokémon has evolved, it gains +1 mp.
+Trapinch	265	1	uc	ground		arena trap - any pokémon adjacent to it, except for flying-type pokémon, will be unable to use mp move. (you can still pass by, though.)
+Zweilous	266	2	uc	dark	dragon	band attack - this pokémon deals +10 damage for each hydreigon, zweilous or deinp on the field. if this pokémon has evolved, it gains +1 mp.
+Riolu	268	3	uc	fighting		inner focus - this pokémon cannot enter wait status on the field
+Zapdos	269	2	ex	electric	flying	soar - this pokémon can fly over pokémon that don't have soar using an mp move
+Vespiquen	270	2	r	bug	flying	none
+Moltres	271	2	ex	fire	flying	soar - this pokémon can fly over pokémon that don't have soar using an mp move
+Crawdaunt	272	2	uc	water	dark	surprise back - when attacked, you can move this pokémon back two steps without battling. it gains wait.
+Floatzel	273	2	uc	water		none
+Articuno	274	2	ex	ice	flying	soar - this pokémon can fly over pokémon that don't have soar using an mp move
+Mega Venusaur	275	2	ux	grass	poison	cruel blossom's incursion - this pokémon can mp move over poisoned and noxious pokémon. pokémon this pokémon moved over gain wait 5 your grass-type and poison-type pokémon each deal +10 damage
+Mega Charizard X	276	3	ux	fire	dragon	inferno ladder - when this pokémon appears as a mega evolution, remove the frozen condition from all of your pokémon. pokémon knocked out by the attacks of this pokémon are temporarily removed from the duel, returning to the bench 7 turns later
+Mega Charizard Y	277	3	ux	fire	flying	blue skies captor - this pokémon can use an mp move to fly over pokémon on the field that don't have soar. move opposing pokémon surrounded by this pokémon to your p.c. your fire-type pokémon deal +10 damage and your flying-type pokémon deal +10 damage
+Mega Blastoise	278	2	ux	water		intense shell cannon - this pokémon deals +10 damage for each water-type pokémon on the field. your water-type pokémon each deal +20 damage
+Mega Beedrill	279	2	ux	bug	poison	poisoning order - while this pokémon is on the field, the misses of your beedrill become the battle opponent becomes noxious. your bug-type pokémon deal +10 damage and your poison-type pokémon deal +10 damage
+Dragonair	280	2	r	dragon		shed skin - this pokémon will recover from any status effect at the start of your turn, and the turn will end.
+Dragonite	281	1	ex	dragon	flying	speed booster - when this pokémon evolves, it will gain +1 mp
+Grovyle	282	2	r	grass		forest leap - at the start of your turn, instead of an mp move, you can move this pokémon to a spot next to an adjacent grass-type pokémon. if there is a succession of grass-type pokémon adjacent to the first, you may instead move this pokémon to a spot adjacent to any of them.
+Sceptile	283	2	ex	grass		none
+Mega Sceptile	284	3	ux	grass		forest regeneration - when this pokémon moves from the bench to the field, or when this pokémon appears as a mega evolution, move grass, flying and bug-type pokémon from your p.c. to the bench. your grass-type pokémon and your dragon-type pokémon deal +10 damage
+Combusken	285	2	r	fire	fighting	none
+Blaziken	286	2	ex	fire	fighting	none
+Mega Blaziken	287	2	ux	fire	fighting	blaze boogie - this pokémon can mp move over other pokémon on the field. opposing pokémon moved over in this way are now burned. your fire-type and fighting-type pokémon do +10 damage.
+Mega Swampert	288	1	ux	water	ground	eartne rapids - this pokémon can mp move under other pokémon on the field. while this pokémon is on the field, your water-type pokémon and ground-type pokémon get +1mp (up to a maximum of mp3).  your water-type pokémon and your ground-type pokémon deal +10 da,age
+Nincada	289	1	uc	bug	ground	trainee - this pokémon gains wait 10 at the start of the duel. when this pokémon faints in battle, you can evolve it without sending it to the p.c.. if you do, move 1 of the pokémon in your pc to the bench
+Ninjask	290	3	r	bug	flying	bullet speed - this pokémon can mp move through pokémon that have wait. if this pokémon has evolved, this pokémon on your bench gains +1mp
+Mega Salamence	292	2	ux	dragon	flying	scarlet bladewings - pokémon that this pokémon moves over using fly are knocked out. your dragon-type pokémon deal +10 damage and your flying-type pokémon deal +10 damage
+Spiritomb	293	0	r	ghost	dark	grudge stone - when this pokémon moves from the bench to the field, spin a pokémon. if it spins a white attack, attach a curse marker to it, your pokémon on the field can pass through this pokémon when using an mp move
+Tympole	294	3	uc	water		none
+Palpitoad	295	2	uc	water	ground	long lick - instead of an mp move, you can force an opponent's pokémon that is 2 steps away from this pokémon to spin. if you do, this pokémon gains wait 3. if the result of that spin is a white attack, that pokémon gains wait 3
+Seismitoad	296	2	ex	water	ground	poison touch - any pokémon that battles this pokémon will become poisoned.
+Cottonee	297	2	uc	grass	fairy	fairy powder - any dragon-type pokémon that battles this pokémon will become paralyzed
+Whimsicott	298	3	r	grass	fairy	strong breeze - before using this pokémon, you can switch its position with another one of your own pokémon in an adjacent space.
+Petilil	299	2	uc	grass		refreshing aroma - when this pokémon moves from the bench to the field, remove any special conditions from all of your pokémon on the field
+Lilligant	300	2	r	grass		own tempo - this pokémon cannot be confused.
+Gothita	303	3	uc	psychic		power spot - if this pokémon is at an entry point, this pokémon deals +30 damage
+Gothorita	304	2	uc	psychic		power spot - if this pokémon is at an entry point, this pokémon deals +30 damage
+Gothitelle	305	2	r	psychic		none
+Solosis	306	2	uc	psychic		dual brains - if your reuniclus, duosion or solosis is adjacent, deal x2 damage
+Duosion	307	2	uc	psychic		dual brains - if your reuniclus, duosion or solosis is adjacent, deal x2 damage
+Reuniclus	308	2	r	psychic		psychic net - you may redo battle spins up to the number of your other reuniclus on the field.
+Joltik	309	3	uc	bug	electric	power draw - when this pokémon is on the field, your other pokémon deal +1 damage
+Galvantula	310	2	r	bug	electric	electric web - the opponent's pokémon that have passed over this pokémon by using fly away, fly or soar become paralyzed
+Stunfisk	311	1	r	electric	ground	electric mat - other pokémon can move over this pokémon when using an mp move. if those pokémon are the opponent's pokémon, those pokémon become paralyzed.
+Druddigon	312	2	r	dragon		mold breaker - this pokémon negates abilities that boost or lower attack damage for your opponent
+Heatmor	314	2	r	fire		none
+Durant	315	2	uc	bug	steel	team fight - if there is an adjacent durant, this pokémon's white attacks become gold attacks. while this pokémon is on the field, it can move over other durant. the 3-pokémon limit does not apply to this pokémon in your deck
+Cobalion	316	2	ex	steel	fighting	iron heart - this pokémon and your pokémon adjacent to this pokémon are not knocked out by gold attacks from their battle opponents
+Terrakion	317	2	ex	rock	fighting	beat down - all the blue attacks of the battle opponents of this pokémon become misses
+Virizion	318	2	ex	grass	fighting	step work - this pokémon can move over non-flying-type pokémon on the field using mp moves.
+Inkay	321	2	uc	dark	psychic	upside-down evolution - whenever this pokémon moves from a p.c. to the bench, it can evolve.
+Malamar	322	2	ex	dark	psychic	enigmatic signal - for effects that move this pokémon's battle opponent, you decide whether it is used, which pokéon is targeted, and  where the targeted pokémon will be moved to
+Phantump	323	2	uc	ghost	grass	forest mischief - on the field, this pokémon can pass through other pokémon. attach a forest mischief marker to any psychic-type pokémon that battles this pokémon. (while that marker is attached, that pokémon is not subject to energy effects.)
+Trevenant	324	1	ex	ghost	grass	forest mystery - pokémon that have battled this pokémon becomes grass-type while they are on the field (but they stop being grass-type if they leave the field). your pokémon can move over this pokémon when using an mp move
+Pumpkaboo	325	2	uc	ghost	grass	infiltrator - on the field, this pokémon can pass through other pokémon
+Gourgeist	326	2	ex	ghost	grass	harvest festival - if this pokémon is excluded from the duel, exclude pokémon with pumpkin markers attached to them from the duel. this pokémon can mp move through other pokémon on the field
+Bergmite	327	2	uc	ice		ice scramble - before using this pokémon, you may move this pokémon on the bench next to one of your avalugg on the field. if you do, this pokémon's mp is 1. frozen pokémon next to this pokémon cannot be tagged
+Avalugg	328	1	r	ice		ice breaker - before using this pokémon, you can switch its position with an adjacent ice-type pokémon or frozen pokémon. your ice-type pokémon can move over this pokémon when using an mp move
+Noibat	329	3	uc	flying	dragon	sonic blast - when this pokémon moves from the bench to the field, remove wait from all your pokémon on the field.
+Noivern	330	2	ex	flying	dragon	supersonic speed - if this pokémon has evolved, all the gold attacks of battle opponents of this pokémon become white attacks
+Mega Scizor	336	2	ux	bug	steel	crimson alloy - this pokémon can mp move over other pokémon on the field. if a battle opponent of this pokémon spins an attack of 120 or more damage, attach a cracked marker to the battle opponent. your bug-type and steel-type pokémon deal +10 damage
+Mega Gengar	337	3	ux	ghost	poison	otherworldly talons - this pokémon can mp move past other pokémon. pokémon next to this pokémon cannot move using the effects of moves, abilities or energy. opposing pokémon next to this pokémon cannot make mp moves. your ghost- and poison-type pokémon each deal +10 damage
+Tapu Koko	338	3	ex	electric	fairy	electric surge - this ability is only valid on your turn. this pokémon can mp move past non-fairy-type pokémon on the field. when this pokémon is on the field, your electric-type pokémon deal +30 damage (this effect is not cumulative). it removes the asleep condition from pokémon within 2 steps of this pokémon
+Vikavolt	339	2	ex	bug	electric	spark noise - when this pokémon moves from the bench to the field, the pokémon on the opponent's bench spin. pokémon that spin a purple attack gain wait
+Magnezone	340	1	ex	electric	steel	enhanced core - when this pokémon is on the field, your pokémon that are both electric and steel type deal +20 damage. if this  pokémon has evolved, it gains +1mp
+Solgaleo	341	2	ex	psychic	steel	full metal body - the battle opponent of this pokémon cannot move by effects other than the attacks of this pokémon until the end of battle. if this pokémon is not affected by a special condition, markers from the attacks of the battle opponent cannot be attached to this pokémon
+Tapu Lele	342	2	ex	psychic	fairy	psychic surge - this ability is only valid on your turn. this pokémon can mp-move past non-fairy-type pokémon on the field. when this pokémon is on the field, your psychic-type pokémon gain +1 ☆. (this effect is not cumulative.) the gold attacks of pokémon within 2 steps of this pokémon become white attacks.
+Scizor	343	2	ex	bug	steel	steel breaker - if a battle opponent of this pokémon spins an attack of 130 or more damage, attach a cracked marker to the battle opponent.
+Lunala	344	2	ex	psychic	ghost	shadow shield - the battle opponent of this pokémon cannot move by effects other than the attacks of this pokémon until the end of battle. if this pokémon is not affected by a special condition, halve the attack damage dealt to this pokémon by the battle opponent. this pokémon can move through other pokémon on the field
+Gengar	345	2	ex	ghost	poison	night stalker - this pokémon can pass through other pokémon when it mp moves. if it passes through poisoned, noxious or sleeping pokémon, they will faint.
+Chandelure	346	2	ex	ghost	fire	soul burner - if this pokémon is knocked out, knock out opposing pokémon that have a branded marker. this pokémon can mp move through other pokémon on the field
+Decidueye	347	2	ex	grass	ghost	entry shot - when this pokémon moves from the bench to the field, or appears as an evolution, spin for each opposing pokémon on an entry point. if a purple attack is spun, knock that opposing pokémon out. this pokémon can mp move through other pokémon on the field.
+Incineroar	348	2	ex	fire	dark	bust in - this pokémon can mp move from the bench past ghost-type pokémon and pokémon affected by special conditions
+Tapu Bulu	349	2	ex	grass	fairy	grassy surge - this ability is only valid on your turn. this pokémon can mp move past non-fairy-type pokémon on the field. when this pokémon is on the field, your grass-type pokémon ignore knockout and movement-causing effects of opponents' attacks. removes wait condition from pokémon within two steps of this pokémon
+Primarina	350	2	ex	water	fairy	open sea singer - if this pokémon is not affected by a special condition, while this pokémon is on the field, the effect of round becomes
+Tapu Fini	351	2	ex	water	fairy	misty surge - this ability is only valid on your turn. this pokémon can mp move past non-fairy-type pokémon on the field. when this pokémon is on the field, whenever your water-type pokémon move from the bench, they may only move to a point one step away from an entry point. this ends your turn. pokémon within two steps of this pokémon are not affected by new special conditions.
+Magearna	352	2	ex	steel	fairy	soul-heart - this pokémon deals +3 damage for each time one of your pokémon has been knocked out. this pokémon can remove curse markers and cracked markers by tagging
+Electrode	354	3	r	electric		aftermath switch - when this pokémon is knocked out, you may knock out one of your voltorb on the field and all pokémon adjacent to it
+Magneton	355	2	r	electric	steel	electromagnetic barrier - this pokémon is not subject to spin-inducing effects of attacks
+Alolan Raichu	357	2	r	electric	psychic	cosmic surfer - instead of an mp move, you may move this pokémon through an adjacent of electric-type pokémon and a succession of electric-type pokémon adjacent to that pokémon in another spot. this ends your turn
+Cosmoem	358	1	r	psychic		black core - this pokémon cannot be surrounded by your opponent's pokémon. if this pokémon surrounds an opponent's pokémon, this pokémon may evolve. while this pokémon is on the field, effects of energy plates are negated
+Golisopod	359	1	r	bug	water	emergency exit - when this pokémon is attacked, it may switch a pokémon on your bench that is neither wirmpor nor golisopod (no battles are triggered). if it does, this pokémon and the pokémon  that it switched with both gain wait.
+Metang	360	2	r	steel	psychic	magnetic body - at the start of your turn, if any of your other metan or metagross are within 2 steps, you may move this pokémon to a point 2 steps away instead of an mp move. if you do, your turn ends
+Cosmog	361	2	r	psychic		gaseous form - this pokémon cannot surround the opponent's pokémon, and cannot be surrounded itself. it can also move through other pokémon when making an mp move.
+Sableye	362	2	r	dark	ghost	hacking gems - this pokémon can pass through other pokémon when it mp moves. when this pokémon is on the field, opposing pokémon deal -1 damage.
+Mimikyu	363	2	r	ghost	fairy	disguise - when this pokémon moves from the bench to the field, attach a disguise marker to this pokémon. while that marker is attached to it, this pokémon is not knocked out in battle (instead of knocking it out, remove the marker and any special conditions affecting it). this pokémon can mp move through other pokémon on the field
+Dartrix	364	2	r	grass	flying	none
+Torracat	365	3	r	fire		fire bell - if this pokémon is knocked out, all grass-type pokémon within two steps become burne.d
+Ludicolo	366	2	r	water	grass	come here - when this pokémon moves from the bench to the field, or appears as an evolution, each player moves one benched pokémon to its respective entry point (your opponent goes first)
+Mow Rotom	367	2	r	electric	ghost	artificial turf - if this pokémon is on the field and is not affected by a special condition, your mp1 grass-type pokémon gain +1mp
+Brionne	368	2	r	water		proactive - in battles on your turn, this pokémon deals +20 damage.
+Grubbin	372	2	uc	bug		none
+Charjabug	373	1	uc	bug	electric	battery - your electric-type pokémon next to this pokémon gain +1 mp (to a maximum of mp3)
+Oricorio Pom-Pom Style	375	2	uc	electric	flying	pom-pom - when this pokémon is on the field, your electric-type pokémon deal +1 damage for each electric-type pokémon on the field
+Wimpod	376	3	uc	bug	water	wimp out - when this pokémon is attacked, it may switch a pokémon on your bench that is neither wirmpor nor golisopod (no battles are triggered). if it does, this pokémon and the pokémon  that it switched with both gain wait.
+Beldum	377	3	uc	steel	psychic	magnetic body - at the start of your turn, if any of your other metan or metagross are within 2 steps, you may move this pokémon to a point 2 steps away instead of an mp move. if you do, your turn ends
+Oricorio Pau Style	378	2	uc	psychic	flying	p'au - when this pokémon is on the field, your psychic-type pokémon deal +1 damage for each psychic-type pokémon on the field.
+Litwick	379	1	uc	ghost	fire	floating candle - when this pokémon moves from the bench, it can only move to a point 1 step away from an entry point. your turn ends. your pokémon on the field can pass through this pokémon when using an mp move. if this pokémon burns the battle opponent, it may evolve.
+Lampent	380	2	uc	ghost	fire	dark light - can mp move through other pokémon on the field. attach a branded marker to burned pokémon that have been moved through by this pokémon.
+Alolan Grimer	381	1	r	poison	dark	poison touch - any pokémon that battles this pokémon will become poisoned
+Oricorio Sensu Style	383	2	uc	ghost	flying	sensu - this pokémon can mp move through other pokémon on the field. when this pokémon is on the field, your ghost-type pokémon deal +1 damage for each ghost-type pokémon on  the field
+Rowlet	384	3	uc	grass	flying	rapid approach - all the blue attacks of this pokémon's battle opponents become misses.
+Litten	385	3	uc	fire		fire alert - the battle opponent's gold attacks become misses
+Lombre	386	2	uc	water	grass	slippery - just once, before this pokémon would be surrounded, it may switch places with an adjacent pokémon
+Oricorio Baile Style	388	2	uc	fire	flying	baile - when this pokémon is on the field, your fire-type pokémon deal +1 damage for each fire-type pokémon on the field.
+Popplio	389	3	uc	water		balloon trick - all the purple attacks of the battle opponents of this pokémon become misses
+Delibird	390	2	uc	ice	flying	deliver - when this pokémon moves from a p.c. to the bench, one of your used mega evolution plates becomes usable.
+Stantler	391	2	uc	normal		sap sipper - if the battle opponent is a grass-type pokémon, this pokémon is not knocked out in battle.
+Togedemaru	392	3	uc	electric	steel	lightning rod - if the battle opponent is an electric-type pokémon, the damage it deals to this pokémon is reduced by 30
+Shiny Rayquaza	395	1	ex	dragon	flying	air lock - while this pokémon is on the bench, it gains +1 mp. while this pokémon is on the field, your pokémon do not move to the ultra space from the effects of abilities and attacks of opposing pokémon
+Shiny Ho-Oh	399	2	ex	fire	flying	cleansing fire - if this pokémon is knocked out, opposing ghost-type pokémon on the field spin. those that spin a purple attack are knocked out.
+Shiny Gyarados	400	2	r	water	flying	speed booster - when this pokémon evolves, it will gain +1 mp
+Shiny Magikarp	401	2	c	water		rapid evolution - when this pokémon faints in battle, you can evolve it without sending it to the p.c.
+Mega Altaria	403	2	ux	dragon	fairy	miraculous cry - this pokémon can mp move over other pokémon on the field. if this pokémon is knocked out, all of your pokémon that have been excluded from the duel and all of your pokémon in ultra space move to your bench. your dragon-type pokémon and fairy-type pokémon deal +10 damage
+Nihilego	404	2	ux	rock	poison	white noise - when this pokémon moves to the field, the effects of energy plates are lost and they count as having been used. in its first battle after moving to the field, all of this pokémon's white attacks become gold
+Mega Mewtwo Y	405	3	ux	psychic		transcendant helix - this pokémon cannot be moved by the attacks of other pokémon. when this pokémon battles, this pokémon's number of mega evolution turns increases by 2. your psychic-type pokémon deal +20 damage
+Buzzwole	406	2	ux	bug	fighting	ultra pump up - until it engages in its first battle after moving to the field, at the start of your turn this pokémon may move to a point by moving over an adjacent pokémon instead of using an mp move. your turn ends. this pokémon deals +29 attack damage for each pokémon in the ultra space
+Mega Gallade	407	2	ux	psychic	fighting	two-sword strike - this pokémon can attack pokémon that are 2 steps away. while it does, your pokémon's attacks have range 2. your psychic-type and fighting-type pokémon deal +10 damage
+Mega Mewtwo X	408	2	ux	psychic	fighting	ruinous helix - this pokémon is not knocked out in battle (if it would be, it moves to the bench instead). when this pokémon battles, this pokémon's number of mega evolution turns increases by 2. your psychic-type pokémon deal +10 damage. your fighting-type pokémon deal +10 damage
+Pheromosa	409	2	ux	bug	fighting	ultra sprint - in this pokémon's first battle after moving to the field, any effects of the battle opponent's ability that increase or decrease damage are nullified. this pokémon gets +1 mp for each pokémon in the ultra space (to a maximum of mp4)
+Mega Sableye	411	2	ux	dark	ghost	darkness crystal - this pokémon is not knocked out by battle damage. this pokémon is not affected by effects of the battle opponent that would apply any markers to this pokémon or that would inflict any special conditions on this pokémon, and any such effects are applied to the battle opponent instead. your dark-type pokémon and ghost-type pokémon deal +10 damage.
+Xurkitree	414	2	ux	electric		blackout - when this pokémon moves to the field, the effects of energy plats are lost, and they count as having been used. while this pokémon is on the field, pokémon that become paralyzed gain wait 3. in this pokémon's  first battle after moving to the field, pokémon that battle it will become paralyzed.
+Celesteela	415	1	ux	steel	flying	rocket ride - in its first battle after moving to the field, this pokémon's flamethrower becomes flame gun (the battle opponent and one pokémon directly behind it are knocked out). at the start of your turn, instead of an mp move, you may move an adjacent pokémon to a point 3 steps away from this pokémon. if you do, this pokémon moves to the ultra space. your turn ends..
+Mega Ampharos	416	2	ux	electric	dragon	homeward lights - when this pokémon appears as a mega evolution, and again when its mega evolution ends, you may move one of your pokémon in the ultra space or p.c. next to this pokémon. your electic-type and your dragon-type pokémon deal +10 damage.
+Kartana	417	3	ux	grass	steel	paper sword - in this pokémon's first battle after moving to the field, it can attack pokémon that are two steps away. when it does,  this pokémon's attacks have range 2. if it knocks out a pokémon with a cracked marker on it, that pokémon (excluding fire-type pokémon) moves to the ultra space outside of the field.
+Shaymin Sky Forme	418	3	ux	grass	flying	thankfulness - this pokémon can mp move over non-flying-type pokémon on the field. while this pokémon is on the field, mp1 or lower pokémon on your bench, and mp1 or lower pokémon within 2 steps of this pokémon gain +1 mp
+Mega Aggron	419	2	ux	steel	rock	guartop steelshell - this pokémon can mp move under other pokémon. opposing fairy-type pokémon on the field that mp move within 2 stops of this pokémon move to the p.c. after the end of that turn. your steel-type pokémon deal +20 damage
+Mega Tyranitar	420	2	ux	rock	dark	crumbletop rockshell - if the battle opponent spins a blue attack, that pokémon on the field moves to the bench after the turn end and gains wait. your rock-type and dark-type pokémon each deal +10 damage
+Black Kyurem	421	2	ux	dragon	ice	teravolt - this pokémon can only be set as a form in the deck. the effects of abilities of the battle opponent that increase or decrease attack damage are nullified. this pokémon can mp move over other pokémon. when this pokémon is knocked out, it can change form to kyurem without moving to the p.c.. if it does, and there are any of your zekrom that have been excluded from the duel, move one of the zekrom to the bench
+White Kyurem	422	2	ux	dragon	ice	turboblaze - this pokémon can only be set as a form in the deck. the effects of abilities of the battle opponent that increase or decrease attack damage are nullified. this pokémon can mp move over other pokémon. when this pokémon is knocked out, it can change form to kyurem without moving to the p.c.. if it does, and there are any of your reshiram that have been excluded from the duel, move one of the reshiram to the bench
+Altaria	431	2	ex	dragon	flying	fight song - when this pokémon is on the field, your dragon-type and flying-type pokémon deal +10 damage
+Toxapex	433	1	ex	poison	water	poisonous bunker - this pokémon cannot be moved by the attacks of other pokémon. grass-type pokémon and fairy-type pokémon cannot pass by this pokémon by means of effects of their abilities. when this pokémon is  on the field, the abilities of poisoned and noxious grass-type pokémon and fairy-type pokémon cease providing the capability to pass by other pokémon
+Gallade	434	2	ex	psychic	fighting	psychic sensor - psychic-type pokémon have their in-battle effects of their abilities nullified.
+Bewear	435	2	ex	normal	fighting	fluffy - the damage deal to this pokémon by its battle opponents (excluding fire-type pokémon) is cut in half.
+Zoroark	437	2	ex	dark		illusion - when this pokémon is on the bench or has not yet engaged in its first battle after moving to the field, and another of your pokémon has not yet engaged in its first battle after moving to the field is attacked, before the battle, that pokémon may switch places with this pokémon.
+Honchkrow	439	2	ex	dark	flying	insomnia - this pokémon cannot be affected by sleep
+Ampharos	440	2	ex	electric		electric upsurge - while this pokémon is on the field, your electric-type pokémon deal +10 damage for each paralyzed pokémon on the field. this effect does not stack
+Eelektross	441	1	ex	electric		electrobind - while this pokémon is on the field, the effects of abilities of opposing electric-type pokémon and opposing paralyzed pokémon that allow passing by other pokémon with mp moves are negated.  at the start of your turn, instead of an mp move, this pokémon may switch places with an adjacent electric-type pokémon or paralyzed pokémon
+Shaymin Land Forme	442	2	ex	grass		flower carpet - while this pokémon is not affected by a special condition and is on an entry point, mega evolution does not end via passage of turns for the pokémon of the player whose entry point it is
+Lurantis	443	2	ex	grass		green power - this pokémon cannot be paralyzed. if this pokémon is on the field and not affected by a special condition, your grass-type pokémon deal +2 damage for each grass-type pokémon on the field
+Regirock	444	2	ex	rock		lock on
+Kyurem	447	2	ex	dragon	ice	permafrost - if this pokémon is not affected by a special condition, then the frozen condition of pokémon within two steps of this pokémon cannot be removed by tagging
+Shiinotic	453	1	r	grass	fairy	none
+Mareanie	456	2	uc	poison	water	indiscriminate poison - when this pokémon is on the field, pokémon that are not poison-type pokémon or steel-type pokémon deal 10 less damage
+Toxicroak	457	2	r	poison	fighting	dry skin - if the battle opponent is a water-type pokémon that does not have any other types, this pokémon is not knocked out in battle
+Zorua	460	3	r	dark		illusion - when this pokémon is on the bench or has not yet engaged in its first battle after moving to the field, and another of your pokémon has not yet engaged in its first battle after moving to the field is attacked, before the battle, that pokémon may switch places with this pokémon.
+Rotom	462	3	r	electric	ghost	infiltrator - on the field, this pokémon can pass through other pokémon.
+Eelektrik	464	2	r	electric		electroswap - at the start of your turn, instead of an mp move, this pokémon may switch places with an adjacent electric-type pokémon or  paralyzed pokémon.
+Cacturne	466	1	r	grass	dark	sneaky steps - if there are no opposing pokémon within two steps of this pokémon, this pokémon has mp 3 while on the field
+Tangrowth	467	2	r	grass		entangle - if there are no pokémon next to this pokémon, instead of an mp move you can force an opposing pokémon that is two steps away from this pokémon to spin. if you do, this pokémon gains wait 3. if the spin results in a white attack, the opposing pokémon comes one step closer and gains wait
+Lycanroc Midday Form	469	2	r	rock		loyalty - at the start of your turn, if this pokémon is on the field, it may move to the bench. you can use this pokémon immediately. if this pokémon has evolved, this pokémon gains +1mp
+Lycanroc Midnight Form	470	2	r	rock		antagonism - this pokémon spins when it attacks its battle opponent. if it spins a miss, your turn ends (in which case a battle does not occur). if this pokémon has evolved, this pokémon gains +1 mp
+Frost Rotom	473	2	r	electric	grass	frost tag - if this pokémon is on the field and not affected by a special condition, opposing ice-type pokémon next to your ice-type pokémon get mp-1. this effect does not stack
+Swablu	478	3	uc	normal	flying	cotton bird song - when this pokémon is on the field, your normal-type pokémon and your flying-type pokémon take -10 damage
+Morelull	479	2	uc	grass	fairy	none
+Croagunk	481	2	uc	poison	fighting	dry skin - if the battle opponent is a water-type pokémon that does not have any other types, this pokémon is not knocked out in battle
+Stufful	482	2	uc	normal	fighting	fluffy - the damage deal to this pokémon by its battle opponents (excluding fire-type pokémon) is cut in half.
+Tynamo	486	2	uc	electric		electroswap - at the start of your turn, instead of an mp move, this pokémon may switch places with an adjacent electric-type pokémon or  paralyzed pokémon.
+Fomantis	487	2	uc	grass		greenhouse - this pokémon cannot be paralyzed. if this pokémon is on the field and is not affected by a special condition, your mp1 grass-type pokémon on the field gain +1 mp.
+Tangela	488	2	uc	grass		regenerator - if one of your other pokémon is knocked out, and this pokémon is in the p.c., this pokémon moves to the bench
+Rockruff	489	3	uc	rock		loyalty - at the start of your turn, if this pokémon is on the field, it may move to the bench. you can use this pokémon immediately. if this pokémon has evolved, this pokémon gains +1mp
+Relicanth	492	2	uc	water	rock	survive - this pokémon cannot be excluded from the duel (aside from movement to the ultra space)
+Guzzlord	497	1	ux	dark	dragon	gulp - this pokémon gains +1mp after moving to the bench or field until its first battle. at the start of your turn, instead of using an mp move, this pokémon may move to a point by passing through adjacent pokémon that have wait. if it does, those adjacent pokémon move to the ultra space outside of the field. your turn ends.
+Shiny Mega Gengar	507	3	ux	ghost	poison	otherworldly talons - this pokémon can mp move past other pokémon. pokémon next to this pokémon cannot move using the effects of moves, abilities or energy. opposing pokémon next to this pokémon cannot make mp moves. your ghost- and poison-type pokémon each deal +10 damage
+Shiny Gengar	509	2	ex	ghost	poison	night stalker - this pokémon can pass through other pokémon when it mp moves. if it passes through poisoned, noxious or sleeping pokémon, they will faint.
+Shiny Eevee	512	3	r	normal		spontaneous evolution - whenever this pokémon moves from the p.c. to the bench, it can evolve.
+Shiny Vaporeon	513	3	r	water		
+Shiny Jolteon	514	3	r	electric		thunder rush - this pokémon can mp move past paralyzed pokémon.
+Shiny Flareon	515	3	r	fire		none
+Shiny Espeon	516	3	r	psychic		behavioral prediction - this pokémon gains +1 ☆
