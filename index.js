@@ -304,10 +304,11 @@ function parseFigure($) {
 
       if (!DB.attacks[data[1]]) {
         DB.attacks[data[1]] = {
+          version: version,
           wheelsize: data[0],
           color: data[2],
-          notes: data[3],
-          damage: data[4]
+          damage: data[4],
+          notes: data[3]
         };
       }
       // console.log("290" + JSON.stringify(stats));
