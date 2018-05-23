@@ -273,6 +273,14 @@ function parseFigure($) {
   );
   */
   //console.log("272");
+
+  // version & image
+
+  let version = $("li.tabs").attr("title");
+  let image = `https://www.serebii.net/duel/figures/${id}.jpg`;
+
+  // attacks
+
   let moves = test
     .split("\n")
     .map(item => item.trim().trimLeft())
@@ -283,17 +291,13 @@ function parseFigure($) {
     //console.log("280wData-", windowData);
     if (isFinite(parseInt(windowData[0])) && !!windowData[1]) {
       let data = windowData;
-
-      // console.log(name, windowData);
-      //let [wheelsize, name, color, notes, damage] = data;
-      //console.log("window");
-      // console.log(data);
       moveArray.push({
         wheelsize: data[0],
         name: data[1],
         color: data[2],
-        notes: data[3],
-        damage: data[4]
+        damage: data[4],
+        version,
+        notes: data[3]
       });
 
       // feed attacks straight into DB
@@ -309,11 +313,6 @@ function parseFigure($) {
       // console.log("290" + JSON.stringify(stats));
     }
   }
-
-  // version & image
-
-  let version = $("li.tabs").attr("title");
-  let image = `https://www.serebii.net/duel/figures/${id}.jpg`;
 
   return { version, image, ...stats };
 }
